@@ -103,21 +103,6 @@
             </div>
           </div>
         </div>
-
-        <div class="full-answer-section">
-          <h3 class="full-answer-title">5** 滿分示範答案完整版</h3>
-          <div class="full-answer-content">
-            <p class="answer-paragraph">資料二提出「宋代科舉取士體現了公開考試、平等競爭、擇優錄用的原則」，這一觀點完全符合史實。宋代通過一系列科舉制度改革，徹底扭轉了唐代科舉的舞弊風氣，建立了一套高度客觀、公平的選官體系，充分印證了資料二的觀點，具體分析如下：</p>
-            
-            <p class="answer-paragraph"><strong>第一，宋代建立嚴密的防弊制度，從技術層面杜絕考官徇私，保障考試的客觀公平，體現平等競爭的原則。</strong>根據資料一，宋朝推行糊名、謄錄、鎖院、覆考等一系列防弊措施，令考試規則更為公允縝密。從史實來看，唐代科舉無需糊名謄錄，考官可直接看到考生的姓名、字跡，徇私舞弊極為便利；而宋代的糊名制度將考生的姓名、籍貫全部密封，謄錄制度則由專人抄寫答卷，考官完全無法得知答卷者的身份，也無法通過字跡認人，從根本上杜絕了考官因個人好惡、親疏關係徇私偏袒的可能。同時鎖院制度將考官全程隔離，覆考制度設置二次評卷，進一步確保評卷的客觀公正，所有考生無論出身，都只能憑答卷內容競爭，完全體現了平等競競爭、擇優錄用的原則。</p>
-            
-            <p class="answer-paragraph"><strong>第二，宋代創立殿試制度，將最終錄取權收歸皇帝，杜絕請託舞弊，同時提升考試的公開性與權威性。</strong>根據資料一，宋代在省試後增設殿試，由皇帝親自覆試定名次，有效防止舞弊，保證考試的客觀公平。從史實來看，殿試制度由宋太祖正式確立，規定省試合格的考生必須經過皇帝親自主持的殿試，才能最終及第，及第者全部成為「天子門生」，避免了唐代以來考官與考生結成師生門生關係、形成朋黨徇私的弊端。同時，殿試的錄取名單完全公開，向全天下昭示錄取結果，徹底實現了公開考試的原則，也打破了權貴對錄取的干預，讓所有考生在皇帝面前擁有平等的競爭機會，吸引了大量寒門士子投考。</p>
-            
-            <p class="answer-paragraph"><strong>第三，宋代廢除唐代的公卷、通榜制度，確立「以考試成績為唯一錄取標準」的規則，徹底落實擇優錄用的原則。</strong>根據資料一，宋朝廢除唐朝公卷和通榜制度，一律以考生的成績為錄取準則，大幅減低權貴請託舞弊之風。從史實來看，唐代科舉允許考生考前向達官貴人、主考官投遞行卷、公卷，主考官可通過通榜制度，根據考生的聲望、名人推薦提前定錄取名單，考試成績並非錄取的決定因素，高門世家子弟憑藉家族聲望與人脈，天然擁有巨大優勢，寒門士子根本無法與之公平競爭。宋代廢除這一制度後，無論考生的出身、背景、社會聲望如何，最終的錄取與否，完全取決於考試答卷的成績，真正實現了「平等競了「平等競爭、擇優錄用」，徹底貫徹了資料二提出的核心原則。</p>
-            
-            <p class="answer-paragraph conclusion"><strong>綜上，</strong>宋代科舉通過防弊制度的完善、殿試制度的創立、錄取規則的規範，從制度層面全面實現了公開考試、平等競爭、擇優錄用的原則，不僅印證了資料二的觀點，更奠定了中國古代科舉制度的公平化基礎，對後世產生了深遠影響。</p>
-          </div>
-        </div>
       </div>
     </div>
 
@@ -204,14 +189,22 @@
         </div>
 
         <div class="full-answer-section">
-          <h3 class="full-answer-title">5** 滿分示範答案完整版</h3>
+          <h3 class="full-answer-title">DSE 2018 Q12(a) 示範答案</h3>
+          <div class="full-answer-content">
+            <p class="answer-paragraph">資料二提出「宋代科舉取士體現了公開考試、平等競爭、擇優錄用的原則」，這一觀點完全符合史實。宋代通過一系列科舉改革，建立高度客觀公平的選官體系，充分印證資料二的觀點。</p>
+            <p class="answer-paragraph">第一，宋代推行糊名、謄錄、鎖院、覆考等嚴密防弊制度，從技術層面杜絕考官徇私，保障考試公平。唐代科舉未實行糊名謄錄，考官易憑姓名、字跡舞弊；宋代密封考生資料，並由专人抄寫答卷，考官無法辨認考生身份，再以鎖院、覆考確保評卷公正，所有考生只能憑成績競爭，體現平等競爭、擇優錄用。</p>
+            <p class="answer-paragraph">第二，宋代創立殿試，由皇帝親自覆試定名次，錄取權收歸中央，有效防止請託舞弊與朋黨之弊。及第者成為「天子門生」，錄取結果公開天下，提升考試權威性與公開性，進一步體現公開公平原則。</p>
+            <p class="answer-paragraph">第三，宋代廢除唐代行卷、公卷、通榜等制度，確立以考試成績為唯一錄取標準。唐代錄取深受家世、人脈、推薦影響，不利寒門；宋代不論出身背景，一律憑答卷優劣錄取，真正落實平等競爭、擇優錄用。</p>
+            <p class="answer-paragraph conclusion">總上，宋代科舉在防弊、殿試、錄取規則三方面全面實現公開、平等、擇優，印證資料二觀點，奠定科舉公平化基礎。</p>
+          </div>
+        </div>
+
+        <div class="full-answer-section">
+          <h3 class="full-answer-title">DSE 2018 Q12(b) 示範答案</h3>
           <div class="full-answer-content">
             <p class="answer-paragraph">明代科舉在唐宋基礎上更趨嚴密規範，資料三提及的「科舉必由學校」與「分區域配額取士」是其核心內容。</p>
-            
             <p class="answer-paragraph">第一，「科舉必由學校」規定士子必先應童試，合格者稱生員（秀才），進入府、州、縣學學習，方可參加鄉試、會試、殿試，使學校教育與科舉完全綁定。明代建立由中央至地方的完整官學體系，學習內容圍繞四書五經與程朱理學，只有入學合格者才能應考，既保證士子學養，也強化朝廷對士人之思想控制。</p>
-            
             <p class="answer-paragraph">第二，「分區域配額取士」體現為南北分卷（後發展為南、北、中三卷）。明初錄取無地域限制，南方士子文化較盛，長期壟斷中式名額。朝廷遂按地區分配名額，保障北方及邊遠士子亦有入仕機會，平衡全國政治利益，加強中央對地方的統治。</p>
-            
             <p class="answer-paragraph conclusion">總上，兩項制度分別規範報考資格與錄取公平，構成明代科舉成熟體制。</p>
           </div>
         </div>
@@ -387,61 +380,5 @@
 
 .pitfall-text strong {
   color: #d35400;
-}
-
-.full-answer-section {
-  margin: 30px 0;
-  padding: 30px;
-  background: linear-gradient(135deg, #667eea08 0%, #764ba208 100%);
-  border: 3px solid #667eea;
-  border-radius: 12px;
-}
-
-.full-answer-title {
-  font-size: 1.6em;
-  font-weight: bold;
-  color: #667eea;
-  text-align: center;
-  margin: 0 0 25px 0;
-  padding-bottom: 15px;
-  border-bottom: 3px solid #667eea;
-}
-
-.full-answer-content {
-  font-size: 1.05em;
-  line-height: 2.2;
-  color: #333;
-}
-
-.answer-paragraph {
-  margin: 20px 0;
-  padding: 15px;
-  background: white;
-  border-left: 4px solid #667eea;
-  border-radius: 8px;
-  text-align: justify;
-}
-
-.answer-paragraph.conclusion {
-  background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
-  border-left-color: #f5576c;
-  font-weight: bold;
-}
-
-.answer-section {
-  margin: 30px 0;
-  padding: 25px;
-  background: #f8f9fa;
-  border-radius: 10px;
-  border: 2px solid #e9ecef;
-}
-
-.answer-section-title {
-  font-size: 1.3em;
-  font-weight: bold;
-  color: #2c3e50;
-  margin: 0 0 20px 0;
-  padding-bottom: 10px;
-  border-bottom: 3px solid #3498db;
 }
 </style>

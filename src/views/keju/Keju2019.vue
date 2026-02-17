@@ -158,28 +158,12 @@
         </div>
 
         <div class="full-answer-section">
-          <h3 class="full-answer-title">5** 滿分示範答案完整版</h3>
+          <h3 class="full-answer-title">DSE 2019 Q12 示範答案</h3>
           <div class="full-answer-content">
             <p class="answer-paragraph">明代科舉制度高度成熟，從報考限制、考試內容及形式、取錄授官三方面，對政治、社會、文化帶來深遠雙面影響。</p>
-            
-            <div class="answer-section">
-              <h4 class="answer-section-title">一、報考限制</h4>
-              
-              <p class="answer-paragraph">明代實行「科舉必由學校」，士子必先經童試成為生員，入府州縣學方可應考。正面：推動官學普及，為寒門子弟提供公平教育與入仕機會，提升社會文化水平，穩定官僚人才來源。負面：關閉自學士子應考之路，將士人納入官學體系，以程朱理學統一思想，限制學術多元發展。</p>
-            </div>
-            
-            <div class="answer-section">
-              <h4 class="answer-section-title">二、考試內容及形式</h4>
-              
-              <p class="answer-paragraph">僅考四書五經，以朱熹《四書章句集注》為標準，文體限用八股文。正面：評卷標準統一客觀，杜絕考官徇私，有利寒門憑學問晉升，促進社會流動。負面：束縛思想，士子埋首經典，忽視實學，學問空疏；八股文講究格式，扼殺創意，嚴重阻礙人才與文化發展。</p>
-            </div>
-            
-            <div class="answer-section">
-              <h4 class="answer-section-title">三、取錄授官</h4>
-              
-              <p class="answer-paragraph">進士一甲直授翰林院職，優異者入翰林院為庶吉士，形成「非進士不入翰林，非翰林不入內閣」；舉人、秀才多任低職，升遷極難。正面：翰林院培養系統儒學與行政素養高的中央官員，穩定統治。負面：品流分明造成階層固化，基層有才者亦難升遷，易滋生消極與貪腐，並助長門戶之見與朋黨之爭。</p>
-            </div>
-            
+            <p class="answer-paragraph">一、報考限制：明代實行「科舉必由學校」，士子必先經童試成為生員，入府州縣學方可應考。正面：推動官學普及，為寒門子弟提供公平教育與入仕機會，提升社會文化水平，穩定官僚人才來源。負面：關閉自學士子應考之路，將士人納入官學體系，以程朱理學統一思想，限制學術多元發展。</p>
+            <p class="answer-paragraph">二、考試內容及形式：僅考四書五經，以朱熹《四書章句集注》為標準，文體限用八股文。正面：評卷標準統一客觀，杜絕考官徇私，有利寒門憑學問晉升，促進社會流動。負面：束縛思想，士子埋首經典，忽視實學，學問空疏；八股文講究格式，扼殺創意，嚴重阻礙人才與文化發展。</p>
+            <p class="answer-paragraph">三、取錄授官：進士一甲直授翰林院職，優異者入翰林院為庶吉士，形成「非進士不入翰林，非翰林不入內閣」；舉人、秀才多任低職，升遷極難。正面：翰林院培養系統儒學與行政素養高的中央官員，穩定統治。負面：品流分明造成階層固化，基層有才者亦難升遷，易滋生消極與貪腐，並助長門戶之見與朋黨之爭。</p>
             <p class="answer-paragraph conclusion">總結：明代科舉規範公平，促進流動、鞏固統治；但思想控制、形式僵化、階層固化亦扼殺人才，影響深遠。</p>
           </div>
         </div>
@@ -406,61 +390,5 @@
 
 .pitfall-text strong {
   color: #d35400;
-}
-
-.full-answer-section {
-  margin: 30px 0;
-  padding: 30px;
-  background: linear-gradient(135deg, #667eea08 0%, #764ba208 100%);
-  border: 3px solid #667eea;
-  border-radius: 12px;
-}
-
-.full-answer-title {
-  font-size: 1.6em;
-  font-weight: bold;
-  color: #667eea;
-  text-align: center;
-  margin: 0 0 25px 0;
-  padding-bottom: 15px;
-  border-bottom: 3px solid #667eea;
-}
-
-.full-answer-content {
-  font-size: 1.05em;
-  line-height: 2.2;
-  color: #333;
-}
-
-.answer-paragraph {
-  margin: 20px 0;
-  padding: 15px;
-  background: white;
-  border-left: 4px solid #667eea;
-  border-radius: 8px;
-  text-align: justify;
-}
-
-.answer-paragraph.conclusion {
-  background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
-  border-left-color: #f5576c;
-  font-weight: bold;
-}
-
-.answer-section {
-  margin: 30px 0;
-  padding: 25px;
-  background: #f8f9fa;
-  border-radius: 10px;
-  border: 2px solid #e9ecef;
-}
-
-.answer-section-title {
-  font-size: 1.3em;
-  font-weight: bold;
-  color: #2c3e50;
-  margin: 0 0 20px 0;
-  padding-bottom: 10px;
-  border-bottom: 3px solid #3498db;
 }
 </style>

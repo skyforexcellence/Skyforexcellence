@@ -85,22 +85,11 @@
         </div>
 
         <div class="full-answer-section">
-          <h3 class="full-answer-title">5** 滿分示範答案完整版</h3>
+          <h3 class="full-answer-title">DSE 2020 Q12(a) 示範答案</h3>
           <div class="full-answer-content">
             <p class="answer-paragraph">唐、明科舉在途徑與科目上差異明顯，對社會階層流動的作用截然不同。</p>
-            
-            <div class="answer-section">
-              <h4 class="answer-section-title">唐代科舉</h4>
-              
-              <p class="answer-paragraph">唐代科舉多途並進，分生徒、鄉貢與制科，科目繁多，包括明經、進士等。生徒多為高門子弟，進士科最重但盛行行卷、通榜，錄取深受家世、人脈、推薦影響，寒門極難競爭。因此唐代科舉雖打破門閥壟斷，卻仍由高門主導，進士中寒門所佔比例甚低，社會流動有限。</p>
-            </div>
-            
-            <div class="answer-section">
-              <h4 class="answer-section-title">明代科舉</h4>
-              
-              <p class="answer-paragraph">明代科舉途徑單一，僅進士一途，實行童試、鄉試、會試、殿試四級考試，並堅持「科舉必由學校」，不論出身均須經同一流程。科目與內容高度標準化，統一以四書五經、八股文取士，評卷標準客觀，高門特權大減。雖然層層考試與八股文不利部分人才晉升，但整體上更為公平，寒門出身進士比例大幅提高，有效推動社會階層流動。</p>
-            </div>
-            
+            <p class="answer-paragraph">唐代科舉多途並進，分生徒、鄉貢與制科，科目繁多，包括明經、進士等。生徒多為高門子弟，進士科最重但盛行行卷、通榜，錄取深受家世、人脈、推薦影響，寒門極難競爭。因此唐代科舉雖打破門閥壟斷，卻仍由高門主導，進士中寒門所佔比例甚低，社會流動有限。</p>
+            <p class="answer-paragraph">明代科舉途徑單一，僅進士一途，實行童試、鄉試、會試、殿試四級考試，並堅持「科舉必由學校」，不論出身均須經同一流程。科目與內容高度標準化，統一以四書五經、八股文取士，評卷標準客觀，高門特權大減。雖然層層考試與八股文不利部分人才晉升，但整體上更為公平，寒門出身進士比例大幅提高，有效推動社會階層流動。</p>
             <p class="answer-paragraph conclusion">總之，唐代科舉開放但不公，流動有限；明代單一標準化卻更公平，流動更為普及。</p>
           </div>
         </div>
@@ -281,61 +270,5 @@
 
 .pitfall-text strong {
   color: #d35400;
-}
-
-.full-answer-section {
-  margin: 30px 0;
-  padding: 30px;
-  background: linear-gradient(135deg, #667eea08 0%, #764ba208 100%);
-  border: 3px solid #667eea;
-  border-radius: 12px;
-}
-
-.full-answer-title {
-  font-size: 1.6em;
-  font-weight: bold;
-  color: #667eea;
-  text-align: center;
-  margin: 0 0 25px 0;
-  padding-bottom: 15px;
-  border-bottom: 3px solid #667eea;
-}
-
-.full-answer-content {
-  font-size: 1.05em;
-  line-height: 2.2;
-  color: #333;
-}
-
-.answer-paragraph {
-  margin: 20px 0;
-  padding: 15px;
-  background: white;
-  border-left: 4px solid #667eea;
-  border-radius: 8px;
-  text-align: justify;
-}
-
-.answer-paragraph.conclusion {
-  background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
-  border-left-color: #f5576c;
-  font-weight: bold;
-}
-
-.answer-section {
-  margin: 30px 0;
-  padding: 25px;
-  background: #f8f9fa;
-  border-radius: 10px;
-  border: 2px solid #e9ecef;
-}
-
-.answer-section-title {
-  font-size: 1.3em;
-  font-weight: bold;
-  color: #2c3e50;
-  margin: 0 0 20px 0;
-  padding-bottom: 10px;
-  border-bottom: 3px solid #3498db;
 }
 </style>
