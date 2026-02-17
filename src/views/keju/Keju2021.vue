@@ -152,67 +152,52 @@
           </div>
         </div>
 
-        <div class="card">
-          <h3 class="card-title">
-            DSE 2021 Q12 完整答題示範（長文版）
-          </h3>
-          <p class="card-text">
-            明代科舉，常被後世視為「束縛思想」的代名詞，但我以為，若從「人才消長」的角度細究，它其實是一套極為複雜的制度設計：一方面，它以嚴密的程序和統一的標準，為國家選拔了大量忠誠且具備基礎素養的官員；另一方面，它又以僵化的內容和狹隘的出路，扼殺了知識分子的創造力與獨立思考，最終導致人才的整體萎縮。這種「成也科舉，敗也科舉」的弔詭，正是理解明代人才命運的關鍵。
-          </p>
-          <h4 class="card-title">
-            一、考試程序：層層篩選下的「磨礪」與「消耗」
-          </h4>
-          <p class="card-text">
-            明代科舉的考試程序，堪稱中國歷代最為嚴密的體系。它每三年舉辦一次，分為童試、鄉試、會試和殿試四個階段，且明確規定「科舉必由學校」，士子必須先入學就讀，才有資格應考。這一設計，看似保證了應舉士子有一定學識，為科舉入仕提供了必由之路，實則也將人才的成長軌跡牢牢鎖定在「讀書—考試—做官」的單一通道上。
-          </p>
-          <p class="card-text">
-            更為關鍵的是，明代科舉「只有進士一途」，且關卡極多。從入學的童試開始，士子便已被分為縣、府、院試；中間的鄉試又常有覆試；殿試以後，得入翰林院的又有朝考。這一連串的考驗，讓士人精力消磨於層層考試之中。以歸有光為例，他八次參加會試，直到六十歲才高中進士，半生光陰都耗費在科場之上。這種「千軍萬馬過獨木橋」的程序，雖然選拔出了極具毅力與耐力的人才，但也讓大量潛在的思想家、科學家、文學家，在年復一年的應試中耗盡了才華與熱情。
-          </p>
-          <p class="card-text">
-            因此，考試程序對人才的影響是雙重的：它以嚴格的標準保證了入仕者的素質，卻也以漫長的磨礪消耗了人才的生命力，讓許多英才在到達權力中心之前，便已垂垂老矣。
-          </p>
-          <h4 class="card-title">
-            二、考試內容及形式：統一標準下的「規範」與「僵化」
-          </h4>
-          <p class="card-text">
-            明代科舉在內容與形式上的統一，達到了前所未有的程度。它只設進士一科，以四書五經命題，詮釋必須以程朱注疏為本，文體則需以八股文作答，段落字數均有嚴格規定。這種高度標準化的設計，對建立統一的答卷依據、使評卷更為客觀公正，無疑是有利的，尤其有利於寒門子弟憑藉真才實學進入仕途，打破了世家大族對知識的壟斷。
-          </p>
-          <p class="card-text">
-            然而，這種「統一」也代價高昂。它使士子只熟背指定的經書注本，更有甚者，考生僅記誦八股範文應試，以圖倖免。因此，士子學問空疏疏，所學毫無補於實用，無助於修身治人。顧炎武便曾痛斥：「八股之害，等於焚書；而敗壞人才，有甚於咸陽之郊所坑者。」這種批判，並非空穴來風。當一個國家的精英階層，將全部精力用於雕琢一種脫離現實的文體，而不是去研究國計民生、科技藝術時，人才的創新能力與實踐能力便會被徹底扼殺。
-          </p>
-          <p class="card-text">
-            以徐光啟為例，他雖是萬曆年間的進士，卻是在接觸了西方傳教士之後，才真正打開了眼界，開始研究數學、天文學等「異端之學」。這恰恰說明，明代科舉的內容與形式，已經成為了人才成長的枷鎖，而非助力。
-          </p>
-          <h4 class="card-title">
-            三、取錄授官：狹隘出路中的「升遷」與「沉淪」
-          </h4>
-          <p class="card-text">
-            明代科舉的取錄與授官制度，進一步加劇了人才的分化與消長。童試、鄉試合格後，獲秀才、舉人等資格的，可擔任低級官吏；而只有通過會試、殿試，獲進士、翰林資格，才有機會擔任高官。這種嚴格的等級劃分，使得科舉出身的官員之間形成了清晰的品流之分：進士出身者為清流，舉人、秀才等濫流只能擔當地位較低的地方官吏。
-          </p>
-          <p class="card-text">
-            這種品流之分，看似是對人才的分類管理，實則導致了嚴重的後果。一方面，它令低位者難以上進，挫傷了中下層官員的積極性；另一方面，也助長了貪污舞弊之風。許多出身寒微的舉人、秀才，在長期的壓抑與歧視下，更容易選擇通過貪腐來彌補心理落差與物質匱乏，最終導致吏治敗壞。
-          </p>
-          <p class="card-text">
-            同時，明代殿試中得高第者並不立即授官，而是安排進入翰林院學習。這一舉措，雖讓舉士得以了解具體政務，增長學問，為日後擔任高官打下基礎，但也將最優秀的人才束縛在中央的象牙塔中，遠離了地方治理的實踐。這種「重理論、輕實踐」的授官模式，使得明代官員隊伍整體缺乏處理複雜社會問題的能力，最終在明末的內憂外患中不堪一擊。
-          </p>
-          <h4 class="card-title">
-            總結
-          </h4>
-          <p class="card-text">
-            綜上所述，明代科舉制對人才消長的影響，是一個充滿矛盾的複合體：
-          </p>
-          <p class="card-text">
-            考試程序：以嚴密的篩選保證了人才的基礎素質，卻也以漫長的磨礪消耗了人才的生命力。
-          </p>
-          <p class="card-text">
-            考試內容及形式：以統一的標準打破了知識壟斷，卻也以僵化的束縛扼殺了人才的創新能力。
-          </p>
-          <p class="card-text">
-            取錄授官：以清晰的品流劃分維護了統治秩序，卻也以狹隘的出路導致了人才的沉淪與吏治的敗壞。
-          </p>
-          <p class="card-text">
-            這套制度，最終造就了一個龐大而順從的官僚隊伍，卻也讓整個民族的思想活力與創造力，在長達兩百多年的時間裡逐漸枯竭。它不僅是明代人才命運的縮影，更是中國封建社會晚期走向停滯的一個重要標誌。
-          </p>
+        <div class="full-answer-long-section">
+          <h3 class="full-answer-title-long">DSE 2021 Q12 完整答題示範（長文版）</h3>
+          
+          <div class="essay-intro">
+            <p>明代科舉，常被後世視為「束縛思想」的代名詞，但我以為，若從「人才消長」的角度細究，它其實是一套極為複雜的制度設計：一方面，它以嚴密的程序和統一的標準，為國家選拔了大量忠誠且具備基礎素養的官員；另一方面，它又以僵化的內容和狹隘的出路，扼殺了知識分子的創造力與獨立思考，最終導致人才的整體萎縮。這種「成也科舉，敗也科舉」的弔詭，正是理解明代人才命運的關鍵。</p>
+          </div>
+
+          <div class="essay-body">
+            <div class="essay-section">
+              <h4 class="essay-section-title">一、考試程序：層層篩選下的「磨礪」與「消耗」</h4>
+              <p>明代科舉的考試程序，堪稱中國歷代最為嚴密的體系。它每三年舉辦一次，分為童試、鄉試、會試和殿試四個階段，且明確規定「科舉必由學校」，士子必須先入學就讀，才有資格應考。這一設計，看似保證了應舉士子有一定學識，為科舉入仕提供了必由之路，實則也將人才的成長軌跡牢牢鎖定在「讀書—考試—做官」的單一通道上。</p>
+              <p>更為關鍵的是，明代科舉「只有進士一途」，且關卡極多。從入學的童試開始，士子便已被分為縣、府、院試；中間的鄉試又常有覆試；殿試以後，得入翰林院的又有朝考。這一連串的考驗，讓士人精力消磨於層層考試之中。以歸有光為例，他八次參加會試，直到六十歲才高中進士，半生光陰都耗費在科場之上。這種「千軍萬馬過獨木橋」的程序，雖然選拔出了極具毅力與耐力的人才，但也讓大量潛在的思想家、科學家、文學家，在年復一年的應試中耗盡了才華與熱情。</p>
+              <div class="essay-highlight">
+                因此，考試程序對人才的影響是雙重的：它以嚴格的標準保證了入仕者的素質，卻也以漫長的磨礪消耗了人才的生命力，讓許多英才在到達權力中心之前，便已垂垂老矣。
+              </div>
+            </div>
+
+            <div class="essay-section">
+              <h4 class="essay-section-title">二、考試內容及形式：統一標準下的「規範」與「僵化」</h4>
+              <p>明代科舉在內容與形式上的統一，達到了前所未有的程度。它只設進士一科，以四書五經命題，詮釋必須以程朱注疏為本，文體則需以八股文作答，段落字數均有嚴格規定。這種高度標準化的設計，對建立統一的答卷依據、使評卷更為客觀公正，無疑是有利的，尤其有利於寒門子弟憑藉真才實學進入仕途，打破了世家大族對知識的壟斷。</p>
+              <p>然而，這種「統一」也代價高昂。它使士子只熟背指定的經書注本，更有甚者，考生僅記誦八股範文應試，以圖倖免。因此，士子學問空疏，所學毫無補於實用，無助於修身治人。顧炎武便曾痛斥：「八股之害，等於焚書；而敗壞人才，有甚於咸陽之郊所坑者。」這種批判，並非空穴來風。當一個國家的精英階層，將全部精力用於雕琢一種脫離現實的文體，而不是去研究國計民生、科技藝術時，人才的創新能力與實踐能力便會被徹底扼殺。</p>
+              <div class="essay-highlight">
+                以徐光啟為例，他雖是萬曆年間的進士，卻是在接觸了西方傳教士之後，才真正打開了眼界，開始研究數學、天文學等「異端之學」。這恰恰說明，明代科舉的內容與形式，已經成為了人才成長的枷鎖，而非助力。
+              </div>
+            </div>
+
+            <div class="essay-section">
+              <h4 class="essay-section-title">三、取錄授官：狹隘出路中的「升遷」與「沉淪」</h4>
+              <p>明代科舉的取錄與授官制度，進一步加劇了人才的分化與消長。童試、鄉試合格後，獲秀才、舉人等資格的，可擔任低級官吏；而只有通過會試、殿試，獲進士、翰林資格，才有機會擔任高官。這種嚴格的等級劃分，使得科舉出身的官員之間形成了清晰的品流之分：進士出身者為清流，舉人、秀才等濫流只能擔當地位較低的地方官吏。</p>
+              <p>這種品流之分，看似是對人才的分類管理，實則導致了嚴重的後果。一方面，它令低位者難以上進，挫傷了中下層官員的積極性；另一方面，也助長了貪污舞弊之風。許多出身寒微的舉人、秀才，在長期的壓抑與歧視下，更容易選擇通過貪腐來彌補心理落差與物質匱乏，最終導致吏治敗壞。</p>
+              <div class="essay-highlight">
+                同時，明代殿試中得高第者並不立即授官，而是安排進入翰林院學習。這一舉措，雖讓舉士得以了解具體政務，增長學問，為日後擔任高官打下基礎，但也將最優秀的人才束縛在中央的象牙塔中，遠離了地方治理的實踐。這種「重理論、輕實踐」的授官模式，使得明代官員隊伍整體缺乏處理複雜社會問題的能力，最終在明末的內憂外患中不堪一擊。
+              </div>
+            </div>
+          </div>
+
+          <div class="essay-conclusion">
+            <h4 class="essay-section-title">總結</h4>
+            <p>綜上所述，明代科舉制對人才消長的影響，是一個充滿矛盾的複合體：</p>
+            <ul class="conclusion-list">
+              <li><strong>考試程序：</strong>以嚴密的篩選保證了人才的基礎素質，卻也以漫長的磨礪消耗了人才的生命力。</li>
+              <li><strong>考試內容及形式：</strong>以統一的標準打破了知識壟斷，卻也以僵化的束縛扼殺了人才的創新能力。</li>
+              <li><strong>取錄授官：</strong>以清晰的品流劃分維護了統治秩序，卻也以狹隘的出路導致了人才的沉淪與吏治的敗壞。</li>
+            </ul>
+            <p class="final-statement">這套制度，最終造就了一個龐大而順從的官僚隊伍，卻也讓整個民族的思想活力與創造力，在長達兩百多年的時間裡逐漸枯竭。它不僅是明代人才命運的縮影，更是中國封建社會晚期走向停滯的一個重要標誌。</p>
+          </div>
         </div>
       </div>
     </div>
@@ -600,6 +585,151 @@
     line-height: 1.7;
     margin: 10px 0;
     text-indent: 1.5em;
+  }
+}
+
+/* 長文版示範答案樣式 */
+.full-answer-long-section {
+  margin-top: 40px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+.full-answer-title-long {
+  background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+  color: white;
+  padding: 20px 25px;
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.essay-intro {
+  padding: 30px 40px;
+  background: #f8f9fa;
+  border-bottom: 1px solid #eee;
+}
+
+.essay-intro p {
+  font-size: 1.1em;
+  line-height: 1.8;
+  color: #555;
+  margin: 0;
+  text-indent: 2em;
+  font-style: italic;
+}
+
+.essay-body {
+  padding: 10px 40px;
+}
+
+.essay-section {
+  margin: 30px 0;
+  padding-bottom: 30px;
+  border-bottom: 1px dashed #eee;
+}
+
+.essay-section:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.essay-section-title {
+  font-size: 1.3em;
+  color: #2c3e50;
+  margin-bottom: 15px;
+  padding-left: 15px;
+  border-left: 5px solid #3498db;
+  font-weight: bold;
+}
+
+.essay-section p {
+  font-size: 1.05em;
+  line-height: 1.9;
+  color: #333;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.essay-highlight {
+  background: #e8f4fc;
+  padding: 15px 20px;
+  border-radius: 8px;
+  color: #2980b9;
+  font-weight: 500;
+  line-height: 1.8;
+  margin-top: 15px;
+  border-left: 4px solid #3498db;
+}
+
+.essay-conclusion {
+  background: #2c3e50;
+  color: #ecf0f1;
+  padding: 40px;
+  margin-top: 20px;
+}
+
+.essay-conclusion .essay-section-title {
+  color: #ecf0f1;
+  border-left-color: #f1c40f;
+}
+
+.essay-conclusion p {
+  font-size: 1.05em;
+  line-height: 1.9;
+  margin-bottom: 15px;
+  opacity: 0.9;
+}
+
+.conclusion-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.conclusion-list li {
+  margin-bottom: 12px;
+  padding-left: 20px;
+  position: relative;
+  line-height: 1.6;
+}
+
+.conclusion-list li::before {
+  content: "•";
+  color: #f1c40f;
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+
+.conclusion-list strong {
+  color: #f1c40f;
+}
+
+.final-statement {
+  font-weight: bold;
+  font-size: 1.1em;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .essay-intro, .essay-body, .essay-conclusion {
+    padding: 20px;
+  }
+  
+  .full-answer-title-long {
+    font-size: 1.2em;
+    padding: 15px;
+  }
+  
+  .essay-section-title {
+    font-size: 1.1em;
   }
 }
 </style>

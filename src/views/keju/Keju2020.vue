@@ -307,8 +307,8 @@
   margin-top: 18px;
 }
 
-/* 移动端响应式设计 */
-@media (max-width: 768px) {
+/* 移動端與中小屏幕響應式設計 */
+@media (max-width: 1024px) {
   .page-title {
     font-size: 1.3em;
     margin: 18px 0 12px 0;

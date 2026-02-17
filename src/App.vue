@@ -11,10 +11,11 @@
       </div>
     </header>
 
-    <!-- 顶部导航栏 -->
-    <nav class="top-nav" :class="{ 'open': menuOpen }">
-      <div class="nav-group">
-        <div class="nav-group-title">田制專題</div>
+    <div class="layout-body">
+      <!-- 侧边导航栏 -->
+      <nav class="side-nav" :class="{ 'open': menuOpen }">
+        <div class="nav-group">
+          <div class="nav-group-title">田制專題</div>
         <RouterLink to="/tian/overview" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           田制整體概覽
         </RouterLink>
@@ -117,14 +118,15 @@
           兵制小結與比較
         </RouterLink>
       </div>
-    </nav>
+      </nav>
 
-    <!-- 遮罩层 -->
-    <div class="overlay" :class="{ 'open': menuOpen }" @click="closeMenu"></div>
+      <!-- 遮罩层 -->
+      <div class="overlay" :class="{ 'open': menuOpen }" @click="closeMenu"></div>
 
-    <main class="layout-content">
-      <RouterView />
-    </main>
+      <main class="layout-content">
+        <RouterView />
+      </main>
+    </div>
   </div>
 </template>
 
