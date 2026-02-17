@@ -30,6 +30,7 @@ import Keju2019 from "../views/keju/Keju2019.vue";
 import Keju2020 from "../views/keju/Keju2020.vue";
 import Keju2021 from "../views/keju/Keju2021.vue";
 import Keju2022 from "../views/keju/Keju2022.vue";
+import Keju2023 from "../views/keju/Keju2023.vue";
 
 const routes = [
   { path: "/", name: "tian-overview", component: TianOverview },
@@ -63,7 +64,8 @@ const routes = [
   { path: "/keju/2019", name: "keju-2019", component: Keju2019 },
   { path: "/keju/2020", name: "keju-2020", component: Keju2020 },
   { path: "/keju/2021", name: "keju-2021", component: Keju2021 },
-  { path: "/keju/2022", name: "keju-2022", component: Keju2022 }
+  { path: "/keju/2022", name: "keju-2022", component: Keju2022 },
+  { path: "/keju/2023", name: "keju-2023", component: Keju2023 }
 ];
 
 const router = createRouter({
