@@ -22,6 +22,13 @@ import BingYuan from "../views/bing/BingYuan.vue";
 import BingMing from "../views/bing/BingMing.vue";
 import BingQing from "../views/bing/BingQing.vue";
 import BingSummary from "../views/bing/BingSummary.vue";
+import KejuTang from "../views/keju/KejuTang.vue";
+import KejuSong from "../views/keju/KejuSong.vue";
+import KejuMing from "../views/keju/KejuMing.vue";
+import Keju2018 from "../views/keju/Keju2018.vue";
+import Keju2019 from "../views/keju/Keju2019.vue";
+import Keju2020 from "../views/keju/Keju2020.vue";
+import Keju2021 from "../views/keju/Keju2021.vue";
 
 const routes = [
   { path: "/", name: "tian-overview", component: TianOverview },
@@ -47,7 +54,14 @@ const routes = [
   { path: "/bing/yuan", name: "bing-yuan", component: BingYuan },
   { path: "/bing/ming", name: "bing-ming", component: BingMing },
   { path: "/bing/qing", name: "bing-qing", component: BingQing },
-  { path: "/bing/summary", name: "bing-summary", component: BingSummary }
+  { path: "/bing/summary", name: "bing-summary", component: BingSummary },
+  { path: "/keju/tang", name: "keju-tang", component: KejuTang },
+  { path: "/keju/song", name: "keju-song", component: KejuSong },
+  { path: "/keju/ming", name: "keju-ming", component: KejuMing },
+  { path: "/keju/2018", name: "keju-2018", component: Keju2018 },
+  { path: "/keju/2019", name: "keju-2019", component: Keju2019 },
+  { path: "/keju/2020", name: "keju-2020", component: Keju2020 },
+  { path: "/keju/2021", name: "keju-2021", component: Keju2021 }
 ];
 
 const router = createRouter({

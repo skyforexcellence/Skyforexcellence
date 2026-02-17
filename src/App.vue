@@ -7,7 +7,7 @@
         <span></span>
       </button>
       <div class="header-title">
-        DSE 中史︰田制與兵制精讀
+        DSE 中史︰田制、兵制與科舉精讀
       </div>
     </header>
 
@@ -51,6 +51,32 @@
         </RouterLink>
         <RouterLink to="/tian/summary" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           田制小結與比較
+        </RouterLink>
+      </div>
+
+      <div class="nav-group">
+        <div class="nav-group-title">科舉專題</div>
+        <div class="nav-group-description">唐宋明科舉核心知識庫與DSE真題精講</div>
+        <RouterLink to="/keju/tang" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          唐代科舉
+        </RouterLink>
+        <RouterLink to="/keju/song" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          宋代科舉
+        </RouterLink>
+        <RouterLink to="/keju/ming" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          明代科舉
+        </RouterLink>
+        <RouterLink to="/keju/2018" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2018年真題
+        </RouterLink>
+        <RouterLink to="/keju/2019" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2019年真題
+        </RouterLink>
+        <RouterLink to="/keju/2020" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2020年真題
+        </RouterLink>
+        <RouterLink to="/keju/2021" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2021年真題
         </RouterLink>
       </div>
 
