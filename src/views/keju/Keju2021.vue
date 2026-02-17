@@ -140,6 +140,33 @@
             </div>
           </div>
         </div>
+
+        <div class="full-answer-section">
+          <h3 class="full-answer-title">5** 滿分示範答案完整版</h3>
+          <div class="full-answer-content">
+            <p class="answer-paragraph">明代科舉對人才消長具雙面影響，既培養治國人才，亦扼殺創新與多元發展。</p>
+            
+            <div class="answer-section">
+              <h4 class="answer-section-title">一、考試程序</h4>
+              
+              <p class="answer-paragraph">實行「科舉必由學校」與四級嚴密考試。正面：普及官學，統一人才基礎素養，以公平程序選拔寒門俊彥，穩定官僚隊伍。負面：層層考試耗盡士子精力，專注科舉而輕實學，埋沒不擅考試卻有實才者。</p>
+            </div>
+            
+            <div class="answer-section">
+              <h4 class="answer-section-title">二、考試內容及形式</h4>
+              
+              <p class="answer-paragraph">限四書五經與程朱註釋，強行八股文。正面：標準統一，選拔公平，培養具儒家治國理念的官員。負面：束縛思想，士人只懂誦經而缺乏實務能力；八股扼殺創意，敗壞人才，不利學術與社會發展。</p>
+            </div>
+            
+            <div class="answer-section">
+              <h4 class="answer-section-title">三、取錄授官</h4>
+              
+              <p class="answer-paragraph">進士優者入翰林，位至高官；非進士難獲升遷。正面：清晰晉升路徑激勵向學，翰林院培育頂級政務人才。負面：品流固化，埋沒基層賢才，易引發消極、貪腐與朋黨傾軋，浪費人才資源。</p>
+            </div>
+            
+            <p class="answer-paragraph conclusion">總結：明代科舉建立公平規範的選才體系，長於培養儒官、穩定統治；但制度僵化，消滅思想、實學與多元人才，最終限制國家長遠發展。</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -349,5 +376,61 @@
 
 .pitfall-text strong {
   color: #d35400;
+}
+
+.full-answer-section {
+  margin: 30px 0;
+  padding: 30px;
+  background: linear-gradient(135deg, #667eea08 0%, #764ba208 100%);
+  border: 3px solid #667eea;
+  border-radius: 12px;
+}
+
+.full-answer-title {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #667eea;
+  text-align: center;
+  margin: 0 0 25px 0;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #667eea;
+}
+
+.full-answer-content {
+  font-size: 1.05em;
+  line-height: 2.2;
+  color: #333;
+}
+
+.answer-paragraph {
+  margin: 20px 0;
+  padding: 15px;
+  background: white;
+  border-left: 4px solid #667eea;
+  border-radius: 8px;
+  text-align: justify;
+}
+
+.answer-paragraph.conclusion {
+  background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
+  border-left-color: #f5576c;
+  font-weight: bold;
+}
+
+.answer-section {
+  margin: 30px 0;
+  padding: 25px;
+  background: #f8f9fa;
+  border-radius: 10px;
+  border: 2px solid #e9ecef;
+}
+
+.answer-section-title {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 0 0 20px 0;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #3498db;
 }
 </style>
