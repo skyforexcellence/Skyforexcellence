@@ -175,32 +175,26 @@ body {
   overflow-y: auto;
 }
 
-/* 响应式设计 - 平板 */
+/* 响应式设计 - 平板和桌面都使用汉堡包菜单 */
 @media (min-width: 769px) {
-  .top-nav {
+  .top-nav.open {
     display: grid;
-    max-height: 400px;
-    overflow-y: auto;
+    max-height: 500px;
   }
 
-  .hamburger-btn {
-    display: none;
-  }
-
-  .header-title {
-    text-align: left;
+  .layout-content {
+    padding: 20px 32px 28px;
   }
 }
 
 /* 响应式设计 - 桌面 */
 @media (min-width: 1200px) {
-  .top-nav {
-    max-height: 500px;
-    overflow-y: auto;
+  .top-nav.open {
+    max-height: 600px;
   }
 
   .layout-content {
-    padding: 24px 32px 32px;
+    padding: 24px 40px 32px;
   }
 }
 
