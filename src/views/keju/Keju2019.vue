@@ -391,4 +391,171 @@
 .pitfall-text strong {
   color: #d35400;
 }
+
+/* 示範答案區樣式 */
+.full-answer-section {
+  margin: 25px 0;
+}
+
+.full-answer-title {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 20px 0 15px 0;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #27ae60;
+}
+
+.full-answer-content {
+  background: #f0fdf4;
+  padding: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #27ae60;
+}
+
+.answer-paragraph {
+  font-size: 1.05em;
+  line-height: 1.9;
+  color: #333;
+  margin: 12px 0;
+  text-indent: 2em;
+}
+
+.answer-paragraph.conclusion {
+  font-weight: 600;
+  color: #166534;
+  margin-top: 18px;
+}
+
+/* 移动端响应式设计 */
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 1.3em;
+    margin: 18px 0 12px 0;
+    padding-bottom: 10px;
+  }
+
+  .page-subtitle {
+    font-size: 0.85em;
+    margin: 12px auto 24px auto;
+    padding: 0 12px;
+    line-height: 1.6;
+  }
+
+  .question-box {
+    padding: 16px;
+    margin: 20px 0;
+  }
+
+  .question-title {
+    font-size: 1.05em;
+    margin: 0 0 15px 0;
+    padding: 12px;
+  }
+
+  .aspects-list {
+    gap: 12px;
+    margin: 18px 0;
+  }
+
+  .aspect-item {
+    min-width: 100%;
+    padding: 14px;
+  }
+
+  .aspect-number {
+    width: 32px;
+    height: 32px;
+    font-size: 1.2em;
+  }
+
+  .aspect-content {
+    font-size: 0.88em;
+    line-height: 1.6;
+  }
+
+  .aspect-content strong {
+    font-size: 0.95em;
+  }
+
+  .analysis-content {
+    margin: 16px 0;
+  }
+
+  .analysis-section {
+    margin: 16px 0;
+    padding: 14px;
+  }
+
+  .analysis-section .section-header {
+    font-size: 1.05em;
+    margin: 0 0 12px 0;
+  }
+
+  .analysis-section p {
+    font-size: 0.88em;
+    line-height: 1.65;
+    margin: 8px 0;
+  }
+
+  .analysis-section ul {
+    padding-left: 16px;
+  }
+
+  .analysis-section li {
+    font-size: 0.88em;
+    line-height: 1.6;
+    margin: 6px 0;
+  }
+
+  .summary-box {
+    padding: 16px;
+    margin: 18px 0;
+  }
+
+  .summary-box p {
+    font-size: 0.92em;
+    line-height: 1.7;
+  }
+
+  .pitfalls {
+    margin: 16px 0;
+  }
+
+  .pitfall-item {
+    gap: 12px;
+    margin: 12px 0;
+    padding: 12px;
+  }
+
+  .pitfall-icon {
+    font-size: 1.2em;
+  }
+
+  .pitfall-text {
+    font-size: 0.85em;
+    line-height: 1.6;
+  }
+
+  .full-answer-section {
+    margin: 18px 0;
+  }
+
+  .full-answer-title {
+    font-size: 1.05em;
+    margin: 15px 0 10px 0;
+    padding-bottom: 8px;
+  }
+
+  .full-answer-content {
+    padding: 14px;
+  }
+
+  .answer-paragraph {
+    font-size: 0.88em;
+    line-height: 1.7;
+    margin: 10px 0;
+    text-indent: 1.5em;
+  }
+}
 </style>

@@ -339,4 +339,102 @@
   color: #c0392b;
   font-weight: bold;
 }
+
+/* 移动端响应式设计 */
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 1.4em;
+    margin: 20px 0 12px 0;
+    padding-bottom: 10px;
+  }
+
+  .page-subtitle {
+    font-size: 0.85em;
+    margin: 12px auto 24px auto;
+    padding: 0 12px;
+    line-height: 1.6;
+  }
+
+  .section-title {
+    font-size: 1.1em;
+    margin: 24px 0 16px 0;
+    padding: 12px 14px;
+  }
+
+  .subsection-title {
+    font-size: 1.05em;
+    margin: 20px 0 14px 0;
+    padding: 10px 14px;
+  }
+
+  .section-list {
+    font-size: 0.88em;
+    line-height: 1.7;
+    margin: 16px 0;
+    padding: 12px 16px;
+  }
+
+  .section-list li {
+    margin: 10px 0;
+    padding-left: 8px;
+  }
+
+  .highlight {
+    font-size: 0.9em;
+    padding: 1px 6px;
+  }
+
+  .two-column {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin: 20px 0;
+  }
+
+  .card {
+    padding: 16px;
+  }
+
+  .card:hover {
+    transform: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .card-title {
+    font-size: 1em;
+    margin: 0 0 10px 0;
+    padding-bottom: 6px;
+  }
+
+  .card-text {
+    font-size: 0.88em;
+    line-height: 1.6;
+  }
+
+  .table-container {
+    margin: 18px 0;
+    padding: 8px;
+  }
+
+  .comparison-table th {
+    padding: 10px 8px;
+    font-size: 0.85em;
+  }
+
+  .comparison-table td {
+    padding: 8px;
+    font-size: 0.82em;
+  }
+
+  .exam-points {
+    font-size: 0.88em;
+    line-height: 1.7;
+    margin: 16px 0;
+    padding: 14px 16px;
+  }
+
+  .exam-points li {
+    margin: 10px 0;
+    padding-left: 8px;
+  }
+}
 </style>

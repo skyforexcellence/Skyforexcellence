@@ -175,6 +175,165 @@ body {
   overflow-y: auto;
 }
 
+/* 响应式设计 - 手机（小屏幕） */
+@media (max-width: 768px) {
+  /* 顶部标题栏 */
+  .layout-header {
+    padding: 10px 12px;
+  }
+
+  .header-title {
+    font-size: 0.95rem;
+    margin-left: 8px;
+  }
+
+  /* 汉堡包按钮 */
+  .hamburger-btn {
+    width: 26px;
+    height: 20px;
+  }
+
+  /* 顶部导航栏 */
+  .top-nav {
+    top: 46px;
+    grid-template-columns: 1fr;
+  }
+
+  .top-nav.open {
+    max-height: calc(100vh - 46px);
+    overflow-y: auto;
+  }
+
+  /* 导航分组 */
+  .top-nav .nav-group {
+    border-right: none;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .top-nav .nav-group:last-child {
+    border-bottom: none;
+  }
+
+  /* 导航标题 */
+  .nav-group-title {
+    font-size: 0.85rem;
+    padding: 10px 12px;
+  }
+
+  .nav-group-description {
+    font-size: 0.72rem;
+    padding: 5px 12px 6px;
+  }
+
+  /* 导航链接 */
+  .top-nav .nav-link {
+    font-size: 0.78rem;
+    padding: 9px 12px;
+  }
+
+  .top-nav .nav-link:hover,
+  .top-nav .nav-link-active {
+    padding-left: 16px;
+  }
+
+  /* 内容区域 */
+  .layout-content {
+    padding: 14px 12px 18px;
+  }
+
+  /* 页面标题 */
+  .page-title {
+    font-size: 1.15rem;
+    margin-bottom: 6px;
+  }
+
+  .page-subtitle {
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+  }
+
+  /* 章节标题 */
+  .section-title {
+    font-size: 0.92rem;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  .section-text {
+    font-size: 0.85rem;
+    line-height: 1.65;
+    margin-bottom: 3px;
+  }
+
+  /* 列表 */
+  .section-list {
+    margin-left: 14px;
+    margin-bottom: 5px;
+  }
+
+  .section-list li {
+    font-size: 0.85rem;
+    line-height: 1.55;
+  }
+
+  /* 标签 */
+  .tag {
+    font-size: 0.72rem;
+    padding: 2px 5px;
+    margin-right: 5px;
+    margin-bottom: 3px;
+  }
+
+  /* 两列布局改为单列 */
+  .two-column {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    margin-top: 8px;
+  }
+
+  /* 卡片 */
+  .card {
+    padding: 10px 12px;
+  }
+
+  .card-title {
+    font-size: 0.88rem;
+    margin-bottom: 5px;
+  }
+
+  .card-text {
+    font-size: 0.83rem;
+    line-height: 1.55;
+  }
+
+  /* 小节标题 */
+  .subsection-title {
+    font-size: 0.88rem;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  /* 比较表格 */
+  .comparison-table {
+    font-size: 0.78rem;
+    margin: 8px 0;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .comparison-table th,
+  .comparison-table td {
+    padding: 8px 6px;
+    min-width: 80px;
+  }
+
+  .comparison-table th:first-child,
+  .comparison-table td:first-child {
+    position: static;
+  }
+}
+
 /* 响应式设计 - 平板和桌面都使用汉堡包菜单 */
 @media (min-width: 769px) {
   .top-nav.open {

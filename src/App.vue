@@ -15,7 +15,6 @@
     <nav class="top-nav" :class="{ 'open': menuOpen }">
       <div class="nav-group">
         <div class="nav-group-title">田制專題</div>
-        <div class="nav-group-description">按朝代細分︰由先秦到清</div>
         <RouterLink to="/tian/overview" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           田制整體概覽
         </RouterLink>
@@ -56,7 +55,6 @@
 
       <div class="nav-group">
         <div class="nav-group-title">科舉專題</div>
-        <div class="nav-group-description">唐宋明科舉核心知識庫與DSE真題精講</div>
         <RouterLink to="/keju/tang" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           唐代科舉
         </RouterLink>
@@ -82,7 +80,6 @@
 
       <div class="nav-group">
         <div class="nav-group-title">兵制專題</div>
-        <div class="nav-group-description">由貴族軍隊、徵兵、府兵到募兵與衛所制</div>
         <RouterLink to="/bing/overview" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           兵制整體概覽
         </RouterLink>

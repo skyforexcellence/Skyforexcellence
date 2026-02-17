@@ -470,4 +470,168 @@
 .comparison-table tbody tr:hover {
   background-color: #f3f4f6;
 }
+
+/* 移动端响应式设计 */
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 1.4em;
+    margin: 20px 0 12px 0;
+    padding-bottom: 10px;
+  }
+
+  .page-subtitle {
+    font-size: 0.85em;
+    margin: 12px auto 24px auto;
+    padding: 0 12px;
+    line-height: 1.6;
+  }
+
+  .section-title {
+    font-size: 1.1em;
+    margin: 24px 0 16px 0;
+    padding: 12px 14px;
+  }
+
+  .section-list {
+    font-size: 0.88em;
+    line-height: 1.7;
+    margin: 16px 0;
+    padding: 12px 16px;
+  }
+
+  .section-list li {
+    margin: 10px 0;
+    padding-left: 8px;
+  }
+
+  .highlight {
+    font-size: 0.9em;
+    padding: 1px 6px;
+  }
+
+  .two-column {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin: 20px 0;
+  }
+
+  .timeline-box {
+    margin: 20px 0;
+    padding: 16px;
+  }
+
+  .timeline-title {
+    font-size: 1.1em;
+    margin: 0 0 16px 0;
+    padding-bottom: 10px;
+  }
+
+  .timeline {
+    padding-left: 20px;
+  }
+
+  .timeline-item {
+    margin-bottom: 20px;
+    padding-left: 16px;
+  }
+
+  .timeline-item::before {
+    left: -10px;
+    width: 16px;
+    height: 16px;
+  }
+
+  .timeline-step {
+    font-size: 1em;
+    margin-bottom: 6px;
+  }
+
+  .timeline-content {
+    font-size: 0.88em;
+    line-height: 1.6;
+    padding: 12px;
+  }
+
+  .card {
+    padding: 16px;
+  }
+
+  .card:hover {
+    transform: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .card-title {
+    font-size: 1.05em;
+    margin: 0 0 10px 0;
+    padding-bottom: 8px;
+  }
+
+  .card-text {
+    font-size: 0.88em;
+    line-height: 1.6;
+  }
+
+  .card-list {
+    font-size: 0.88em;
+    line-height: 1.6;
+    margin: 12px 0;
+    padding-left: 16px;
+  }
+
+  .card-list li {
+    margin: 6px 0;
+  }
+
+  .quota-box {
+    gap: 14px;
+    margin-top: 16px;
+  }
+
+  .quota-item {
+    min-width: 100%;
+    padding: 16px;
+  }
+
+  .quota-label {
+    font-size: 1em;
+    margin-bottom: 6px;
+  }
+
+  .quota-value {
+    font-size: 1.5em;
+    margin-bottom: 6px;
+  }
+
+  .quota-desc {
+    font-size: 0.85em;
+  }
+
+  .exam-points {
+    font-size: 0.88em;
+    line-height: 1.7;
+    margin: 16px 0;
+    padding: 14px 16px;
+  }
+
+  .exam-points li {
+    margin: 10px 0;
+    padding-left: 8px;
+  }
+
+  .table-container {
+    margin: 18px 0;
+    padding: 8px;
+  }
+
+  .comparison-table th {
+    padding: 10px 8px;
+    font-size: 0.85em;
+  }
+
+  .comparison-table td {
+    padding: 8px;
+    font-size: 0.82em;
+  }
+}
 </style>
