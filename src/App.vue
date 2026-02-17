@@ -14,13 +14,6 @@
     <!-- 顶部导航栏 -->
     <nav class="top-nav" :class="{ 'open': menuOpen }">
       <div class="nav-group">
-        <div class="nav-group-title">首頁</div>
-        <RouterLink to="/" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          使用說明與學習建議
-        </RouterLink>
-      </div>
-
-      <div class="nav-group">
         <div class="nav-group-title">田制專題</div>
         <div class="nav-group-description">按朝代細分︰由先秦到清</div>
         <RouterLink to="/tian/overview" class="nav-link" active-class="nav-link-active" @click="closeMenu">

@@ -1,5 +1,4 @@
 import { createRouter, createWebHashHistory } from "vue-router";
-import Home from "../views/Home.vue";
 import TianOverview from "../views/tian/TianOverview.vue";
 import TianPreQin from "../views/tian/TianPreQin.vue";
 import TianQinHan from "../views/tian/TianQinHan.vue";
@@ -25,7 +24,7 @@ import BingQing from "../views/bing/BingQing.vue";
 import BingSummary from "../views/bing/BingSummary.vue";
 
 const routes = [
-  { path: "/", name: "home", component: Home },
+  { path: "/", name: "tian-overview", component: TianOverview },
   { path: "/tian/overview", name: "tian-overview", component: TianOverview },
   { path: "/tian/pre-qin", name: "tian-pre-qin", component: TianPreQin },
   { path: "/tian/qin-han", name: "tian-qin-han", component: TianQinHan },
