@@ -52,6 +52,15 @@
         <RouterLink to="/tian/summary" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           田制小結與比較
         </RouterLink>
+        <RouterLink to="/tian/2021" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2021年真題
+        </RouterLink>
+        <RouterLink to="/tian/2022" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2022年真題
+        </RouterLink>
+        <RouterLink to="/tian/2023" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2023年真題
+        </RouterLink>
       </div>
 
       <div class="nav-group">
