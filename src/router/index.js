@@ -1,0 +1,59 @@
+import { createRouter, createWebHashHistory } from "vue-router";
+import Home from "../views/Home.vue";
+import TianOverview from "../views/tian/TianOverview.vue";
+import TianPreQin from "../views/tian/TianPreQin.vue";
+import TianQinHan from "../views/tian/TianQinHan.vue";
+import TianWeiJin from "../views/tian/TianWeiJin.vue";
+import TianBeiWei from "../views/tian/TianBeiWei.vue";
+import TianSui from "../views/tian/TianSui.vue";
+import TianTang from "../views/tian/TianTang.vue";
+import TianSong from "../views/tian/TianSong.vue";
+import TianYuan from "../views/tian/TianYuan.vue";
+import TianMing from "../views/tian/TianMing.vue";
+import TianQing from "../views/tian/TianQing.vue";
+import TianSummary from "../views/tian/TianSummary.vue";
+import BingOverview from "../views/bing/BingOverview.vue";
+import BingPreQin from "../views/bing/BingPreQin.vue";
+import BingQinHan from "../views/bing/BingQinHan.vue";
+import BingWeiJin from "../views/bing/BingWeiJin.vue";
+import BingSui from "../views/bing/BingSui.vue";
+import BingTang from "../views/bing/BingTang.vue";
+import BingSong from "../views/bing/BingSong.vue";
+import BingYuan from "../views/bing/BingYuan.vue";
+import BingMing from "../views/bing/BingMing.vue";
+import BingQing from "../views/bing/BingQing.vue";
+import BingSummary from "../views/bing/BingSummary.vue";
+
+const routes = [
+  { path: "/", name: "home", component: Home },
+  { path: "/tian/overview", name: "tian-overview", component: TianOverview },
+  { path: "/tian/pre-qin", name: "tian-pre-qin", component: TianPreQin },
+  { path: "/tian/qin-han", name: "tian-qin-han", component: TianQinHan },
+  { path: "/tian/wei-jin", name: "tian-wei-jin", component: TianWeiJin },
+  { path: "/tian/bei-wei", name: "tian-bei-wei", component: TianBeiWei },
+  { path: "/tian/sui", name: "tian-sui", component: TianSui },
+  { path: "/tian/tang", name: "tian-tang", component: TianTang },
+  { path: "/tian/song", name: "tian-song", component: TianSong },
+  { path: "/tian/yuan", name: "tian-yuan", component: TianYuan },
+  { path: "/tian/ming", name: "tian-ming", component: TianMing },
+  { path: "/tian/qing", name: "tian-qing", component: TianQing },
+  { path: "/tian/summary", name: "tian-summary", component: TianSummary },
+  { path: "/bing/overview", name: "bing-overview", component: BingOverview },
+  { path: "/bing/pre-qin", name: "bing-pre-qin", component: BingPreQin },
+  { path: "/bing/qin-han", name: "bing-qin-han", component: BingQinHan },
+  { path: "/bing/wei-jin", name: "bing-wei-jin", component: BingWeiJin },
+  { path: "/bing/sui", name: "bing-sui", component: BingSui },
+  { path: "/bing/tang", name: "bing-tang", component: BingTang },
+  { path: "/bing/song", name: "bing-song", component: BingSong },
+  { path: "/bing/yuan", name: "bing-yuan", component: BingYuan },
+  { path: "/bing/ming", name: "bing-ming", component: BingMing },
+  { path: "/bing/qing", name: "bing-qing", component: BingQing },
+  { path: "/bing/summary", name: "bing-summary", component: BingSummary }
+];
+
+const router = createRouter({
+  history: createWebHashHistory(),
+  routes
+});
+
+export default router;
