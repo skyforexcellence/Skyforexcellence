@@ -63,37 +63,7 @@
         </RouterLink>
       </div>
 
-      <div class="nav-group">
-        <div class="nav-group-title">科舉專題</div>
-        <RouterLink to="/keju/tang" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          唐代科舉
-        </RouterLink>
-        <RouterLink to="/keju/song" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          宋代科舉
-        </RouterLink>
-        <RouterLink to="/keju/ming" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          明代科舉
-        </RouterLink>
-        <RouterLink to="/keju/2018" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          DSE 2018年真題
-        </RouterLink>
-        <RouterLink to="/keju/2019" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          DSE 2019年真題
-        </RouterLink>
-        <RouterLink to="/keju/2020" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          DSE 2020年真題
-        </RouterLink>
-        <RouterLink to="/keju/2021" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          DSE 2021年真題
-        </RouterLink>
-        <RouterLink to="/keju/2022" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          DSE 2022年真題
-        </RouterLink>
-        <RouterLink to="/keju/2023" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          DSE 2023年真題
-        </RouterLink>
-      </div>
-
+      
       <div class="nav-group">
         <div class="nav-group-title">兵制專題</div>
         <RouterLink to="/bing/overview" class="nav-link" active-class="nav-link-active" @click="closeMenu">
@@ -130,6 +100,38 @@
           兵制小結與比較
         </RouterLink>
       </div>
+
+      <div class="nav-group">
+        <div class="nav-group-title">科舉專題</div>
+        <RouterLink to="/keju/tang" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          唐代科舉
+        </RouterLink>
+        <RouterLink to="/keju/song" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          宋代科舉
+        </RouterLink>
+        <RouterLink to="/keju/ming" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          明代科舉
+        </RouterLink>
+        <RouterLink to="/keju/2018" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2018年真題
+        </RouterLink>
+        <RouterLink to="/keju/2019" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2019年真題
+        </RouterLink>
+        <RouterLink to="/keju/2020" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2020年真題
+        </RouterLink>
+        <RouterLink to="/keju/2021" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2021年真題
+        </RouterLink>
+        <RouterLink to="/keju/2022" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2022年真題
+        </RouterLink>
+        <RouterLink to="/keju/2023" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2023年真題
+        </RouterLink>
+      </div>
+
       </nav>
 
       <!-- 遮罩层 -->
