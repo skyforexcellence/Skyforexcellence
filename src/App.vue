@@ -76,6 +76,9 @@
         <RouterLink to="/keju/2021" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           DSE 2021年真題
         </RouterLink>
+        <RouterLink to="/keju/2022" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2022年真題
+        </RouterLink>
       </div>
 
       <div class="nav-group">
