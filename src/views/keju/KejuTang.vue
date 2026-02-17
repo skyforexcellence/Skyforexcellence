@@ -1,186 +1,227 @@
 <template>
   <div>
     <h1 class="page-title">
-      唐代科舉制度（DSE精讀）
+      唐代選仕制度（科舉制）詳解｜DSE中國歷史應考全攻略
     </h1>
     <p class="page-subtitle">
-      唐代科舉是由門閥政治走向科舉用人的起點，既開啟新局，又保留舊勢力，是中四、中六必須熟悉、用來和宋、明作比較的基礎單元。
+      本文完整涵蓋唐代科舉制的核心內容、考試規則、制度影響，完整還原史料細節與考試數據，對應DSE中國歷史科唐代政治制度的全部考點，適合作為複習與網站學習資源使用。
     </p>
 
     <h2 class="section-title">
-      一、制度內容（考試「怎樣做」）
+      一、唐代選仕的核心入仕途徑
     </h2>
+    <p class="section-text">
+      唐代選仕以科舉制為核心，分為常科與制科兩大體系，對應不同的選拔需求與考生群體。
+    </p>
+
+    <h3 class="subsection-title">
+      （一）常科：每年定期舉行的常規選拔
+    </h3>
+    <p class="section-text">
+      常科是唐代最主要的科舉入仕渠道，每年固定舉行，報考者分為「生徒」與「鄉貢」兩類，兩者均需最終參加京師的省試。
+    </p>
+
+    <div class="card">
+      <h3 class="card-title">1. 生徒</h3>
+      <p class="card-text">
+        生徒指官辦學校的在讀學生，是唐代科舉考生的核心群體，以高門世家子弟為主。
+      </p>
+      <ul class="card-list">
+        <li><strong>就讀機構：</strong>分中央官學與地方官學兩級。中央官學包括國子學、太學、四門學（隸屬國子監），分別招收不同品級官員的子弟；地方官學為州學、縣學，面向地方士子開放。</li>
+        <li><strong>報考流程：</strong>生徒修業期滿後，經學校考核合格、獲得官方保舉，即可直接前往京師長安參加省試。</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3 class="card-title">2. 鄉貢</h3>
+      <p class="card-text">
+        鄉貢是面向民間寒門子弟的報考渠道，無需官學就讀經歷，以「懷牒自舉」為核心特徵。
+      </p>
+      <ul class="card-list">
+        <li><strong>報考資格：</strong>不限制出身，以寒門子弟為主，士子可自行攜帶身份、籍貫文書（牒）向州縣官府報名。</li>
+        <li><strong>報考流程：</strong>先參加州縣組織的初試，初試合格後，由州縣統一送往京師，與生徒一同參加省試。</li>
+      </ul>
+    </div>
+
+    <h3 class="subsection-title">
+      （二）制科：皇帝臨時設置的特殊選拔
+    </h3>
     <ul class="section-list">
-      <li>
-        <span class="highlight">（一）考試途徑多元：</span>
-        唐代科舉分常科與制科。常科定期舉行，科目繁多，如秀才、明經、進士、明法、明書、明算等，其中以<strong>進士科</strong>地位最高，其次為<strong>明經科</strong>。當時社會流傳「三十老明經，五十少進士」，反映進士科難度極高，考中者備受尊崇。制科則是皇帝為選拔特殊人才而臨時下詔舉行的考試，如「賢良方正能直言極諫科」。
-      </li>
-      <li>
-        <span class="highlight">（二）報考資格分層：</span>
-        考生來源主要分為兩類：一是<strong>「生徒」</strong>，即中央國子監及地方州縣學校的在讀學生，經學校考核合格後送尚書省應試；二是<strong>「鄉貢」</strong>，即不在學的士子，需先經州縣考試合格（稱「解試」），取得「解元」資格後，方可入京應試。這顯示唐代科舉雖開放報考，但仍偏重受過正規教育者。
-      </li>
-      <li>
-        <span class="highlight">（三）考試內容與重點：</span>
-        進士科重<strong>詩賦</strong>與策論，主要考核文學才華與政治見解，最受士人追捧；明經科重<strong>經義</strong>記誦，主要考核對儒家經典的記憶與理解，難度相對較低。這種「重文輕質」的傾向，促成了唐代詩歌的繁榮，但也導致士風浮華。
-      </li>
-      <li>
-        <span class="highlight">（四）考試與授官流程：</span>
-        士子通過禮部主持的「省試」後，稱為「及第」，但这只是取得了做官的資格（出身）。要正式授官，還需經過<strong>吏部</strong>主持的<strong>「釋褐試」</strong>（又稱關試）。吏部考試標準有四：<strong>身</strong>（體貌豐偉）、<strong>言</strong>（言辭辯正）、<strong>書</strong>（楷法遒美）、<strong>判</strong>（文理優長）。這說明唐代科舉是「考試成績＋個人條件」的綜合評定。
-      </li>
-      <li>
-        <span class="highlight">（五）行卷與通榜制度：</span>
-        這是唐代科舉的一大特色。由於考試不糊名，士子為求高中，常在考前將自己得意的詩文作品呈送給達官貴人或文壇名流，請求推薦，稱為<strong>「行卷」</strong>。主考官在閱卷前，往往會參考這些名流的推薦名單（通榜）來決定錄取人選。這一方面有助於選拔真才實學（如白居易、李白），另一方面也為權貴請託、門第運作留下了後門。
-      </li>
+      <li><strong>考試形式：</strong>由皇帝親自策問，考題多與時政、治國方略相關，對應特殊的人才需求。</li>
+      <li><strong>應試資格：</strong>無嚴格規限，無官職的普通士人、已有官職的在職官員均可報考。</li>
+      <li><strong>授官待遇：</strong>制科登科者待遇遠高於常科：在職官員可直接升遷，白身士子可直接授予官職，無需再經過吏部銓選。</li>
+    </ul>
+
+    <h3 class="subsection-title">
+      （三）入仕門檻：門第勢力仍盛，不利寒門入仕
+    </h3>
+    <p class="section-text">
+      唐代科舉雖打破了九品中正制的門第壟斷，但仍保留濃厚的世家特權色彩，寒門子弟入仕難度極大，核心表現如下：
+    </p>
+    <ul class="section-list">
+      <li><strong>考生群體向世家傾斜：</strong>生徒群體以高門子弟為絕對主體；常科中錄取名額最多的明經科，考生也以高門世家子弟為主，寒門子弟參與門檻極高。</li>
+      <li><strong>經濟門檻阻礙寒門參與：</strong>寒門子弟多礙於經濟能力，無法入讀州縣官學，失去生徒的穩定報考渠道；同時也難以負擔前往長安參加省試的旅費、生活開支，入仕路徑被大幅壓縮。</li>
+      <li><strong>行卷制度放大世家優勢：</strong>門第世家財雄勢大，可憑藉家族人脈結識先達名流，讓子弟透過投獻行卷獲得名流舉薦，直接影響考官的錄取決定，進一步阻礙社會階級流動。</li>
+      <li><strong>核心數據佐證：</strong>根據史料統計，唐代進士中，寒門出身者僅佔<span class="highlight">16%</span>，絕大多數官職仍被世家壟斷。</li>
     </ul>
 
     <h2 class="section-title">
-      二、對人才與社會流動的影響（利與弊）
+      二、唐代科舉的完整考試程序
     </h2>
-    <div class="card">
-      <h3 class="card-title">（一）正面影響：打破門閥壟斷，開啟社會流動</h3>
-      <p class="card-text">
-        <strong>1. 破除門閥世襲，確立「以才取士」原則：</strong><br>
-        魏晉南北朝實行九品中正制，官位由高門士族世襲，出現「上品無寒門，下品無勢族」的局面。唐代科舉將入仕資格與考試成績掛鈎，原則上「不問門第，唯才是舉」，從制度上否定了血統論，為中下層地主及寒門子弟打開了入仕之門。
-      </p>
-      <p class="card-text">
-        <strong>2. 擴大統治基礎，吸納社會精英：</strong><br>
-        《新唐書‧選舉志》記載，武則天時創設殿試與武舉，並大幅增加進士錄取名額（由初期不足十人增至二三十人）。這使得更多來自非士族家庭的才俊（如張九齡、韓愈）得以進入官僚體系，擴大了唐王朝的統治基礎，增強了國家的活力與凝聚力。
-      </p>
-      <p class="card-text">
-        <strong>3. 促進文化繁榮，提升官員素質：</strong><br>
-        進士科重詩賦，極大刺激了文學創作的熱情，造就了唐詩的黃金時代。同時，科舉考試要求士子熟讀經史、練習寫作，這在客觀上提升了官僚隊伍的文化素養，改變了過往門閥子弟「不學無術」的紈絝習氣。
-      </p>
-    </div>
-    <div class="card">
-      <h3 class="card-title">（二）負面影響：流動有限，門第影響仍存</h3>
-      <p class="card-text">
-        <strong>1. 寒門難以上位，世家優勢依然明顯：</strong><br>
-        雖然制度開放，但受限於教育資源分佈不均（官學多收貴族子弟）及「行卷」制度的人為干預，真正出身貧寒的士子極難在科舉中脫穎而出。據學者統計，唐代進士中出身寒門者僅佔約<strong>16%</strong>，絕大多數仍來自傳統世家或官宦家庭。科舉在唐代更多是實現了「士族內部的精英更替」，而非大規模的平民翻身。
-      </p>
-      <p class="card-text">
-        <strong>2. 黨爭工具，加劇政治動盪：</strong><br>
-        由於「座主」（主考官）與「門生」（錄取者）之間存在緊密的依附關係，科舉容易形成盤根錯節的官場派系。晚唐的<strong>「牛李黨爭」</strong>中，牛黨多為科舉進士出身，李黨多為門閥世族出身，雙方利用科舉互引朋黨、排斥異己，導致朝政混亂，加速了唐朝的衰亡。
-      </p>
-      <p class="card-text">
-        <strong>3. 重文輕實，忽視實用技能：</strong><br>
-        進士科過分推崇詩賦辭章，導致士子皓首窮經、吟詩作對，往往缺乏處理財政、軍事、水利等實際政務的能力。這種「浮華」的學風，對國家治理並無直接助益，也為後世宋代改革考試內容（重策論）埋下了伏筆。
-      </p>
-    </div>
+    <p class="section-text">
+      唐代常科的完整考試流程分為省試與吏部覆試（釋褐試）兩個核心階段，僅通過全部考核，才能正式獲得官職。
+    </p>
 
-    <h2 class="section-title">
-      三、與宋、明科舉的結構性比較
-    </h2>
-    <div class="table-container">
-      <table class="comparison-table">
-        <thead>
-          <tr>
-            <th>項目</th>
-            <th>唐代</th>
-            <th>宋代</th>
-            <th>明代</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>考試途徑</td>
-            <td>多途並進（生徒、鄉貢、制科）</td>
-            <td>以進士科為主，途徑較統一</td>
-            <td>只有進士一科，由學校培養起步</td>
-          </tr>
-          <tr>
-            <td>防弊措施</td>
-            <td>未有嚴密防弊，易受人情干預</td>
-            <td>糊名、謄錄、鎖院、殿試，強調公平</td>
-            <td>沿用宋制並更嚴格執行</td>
-          </tr>
-          <tr>
-            <td>考試內容</td>
-            <td>科目繁多，進士重詩賦</td>
-            <td>重經義、策論，講求治國見解</td>
-            <td>四書五經＋八股文，形式僵化</td>
-          </tr>
-          <tr>
-            <td>錄取名額</td>
-            <td>每科每次20–30人，名額極少</td>
-            <td>每科每次錄取數百人</td>
-            <td>每科每次錄取數百人</td>
-          </tr>
-          <tr>
-            <td>寒門比例</td>
-            <td>約16%，門第影響仍大</td>
-            <td>較唐代明顯提高</td>
-            <td>約50%，寒門比重最高</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <h2 class="section-title">
-      四、DSE考試方向與答題關鍵
-    </h2>
-    <ul class="exam-points">
-      <li>
-        <strong>常見題型：</strong>
-        「依據資料並援引史實，說明唐代科舉如何影響社會階層流動」、
-        「比較唐、宋或唐、明科舉在公平性方面的異同」，
-        亦可結合魏晉南北朝，考察由門閥政治走向科舉政治的歷史變化。
-      </li>
-      <li>
-        <strong>必背關鍵詞：</strong>
-        生徒、鄉貢、常科、制科、進士科、行卷、通榜、釋褐試、門閥政治、社會流動、寒門比例約16%。
-      </li>
-      <li>
-        <strong>答題結構建議：</strong>
-        先寫制度內容（途徑、流程），再寫正面作用（打破門閥壟斷、帶來有限社會流動），最後補上限制（行卷通榜偏袒世家、防弊不足、寒門比例仍低），形成「有進步但有限」的完整評價。
-      </li>
-      <li>
-        <strong>與宋、明對比時的句式：</strong>
-        「相較於唐代尚未建立嚴密防弊制度，宋代通過糊名、謄錄、鎖院等措施，大大提高科舉公平性；明代則在此基礎上更進一步，結合學校教育與南北分卷，使寒門比例上升到約一半。」
-      </li>
-      <li>
-        <strong>進階寫作技巧：</strong>
-        遇到要求「評價唐代科舉作用」的題目時，可用「在制度設計上意味著進步，在實際效果上卻仍受門第限制」這類句式，表現出多角度思考。
-      </li>
+    <h3 class="subsection-title">
+      （一）省試：中央級別的統一考試
+    </h3>
+    <ul class="section-list">
+      <li><strong>主辦機構：</strong>由禮部主持（開元二十四年前由吏部主持，後改為禮部，成為唐代定製），因此又稱「禮部試」。</li>
+      <li><strong>舉行時間：</strong>每年春季在京師長安舉行，因此又稱「春闈」。</li>
+      <li><strong>參考人員：</strong>經過保舉的生徒、州縣初試合格的鄉貢。</li>
     </ul>
 
-    <div class="detail-button-wrapper">
-      <button class="detail-button" @click="showDetailModal = true">
-        查看唐代科舉詳盡史料與數據
-      </button>
+    <h3 class="subsection-title">
+      （二）吏部覆試（釋褐試）：做官資格的最終考核
+    </h3>
+    <p class="section-text">
+      士子通過禮部省試，僅獲得「出身」（做官的資格），並不能直接授官，必須經過吏部覆試（又稱釋褐試）考核合格，才能正式授予官職。
+    </p>
+
+    <div class="card">
+      <h3 class="card-title">「釋褐」含義</h3>
+      <p class="card-text">
+        「褐」為平民穿的粗布衣服，「釋褐」即脫去平民服飾、換上官服，正式進入仕途。
+      </p>
     </div>
 
-    <div class="modal-backdrop" v-if="showDetailModal">
-      <div class="modal">
-        <div class="modal-header">
-          <h3 class="modal-title">唐代科舉相關史料與數據補充</h3>
-          <button class="modal-close" @click="showDetailModal = false">×</button>
-        </div>
-        <div class="modal-body">
-          <p class="modal-paragraph">
-            1. 進士錄取人數變化：隋唐之際，早期進士錄取名額極少，有時每科錄取不足十人；到唐玄宗、代宗以後，進士錄取人數逐漸穩定在每科二、三十人左右。這反映出國家愈來愈重視通過科舉選拔文人，進士身份的社會聲望也水漲船高。
-          </p>
-          <p class="modal-paragraph">
-            2. 寒門與世家比例：近代學者透過族譜、墓誌分析，估計唐代進士中約有一成多出身於真正的寒門，其餘多與傳統士族或地方豪強有關。這組數據常用來說明：科舉確實為寒門開了一扇門，但門並不算大，多數高位仍由既得利益者佔據。
-          </p>
-          <p class="modal-paragraph">
-            3. 行卷與通榜的實際操作：《唐會要》《新唐書‧選舉志》中多次記載考生提前向名臣呈卷，求其「題署」或推薦。主考官在正式閱卷之前，往往對某些已成名的士子有所認識，亦會參考名流意見安排錄取名單。這種做法，使科舉在實際運作中仍然難以完全擺脫人情與門第。
-          </p>
-          <p class="modal-paragraph">
-            4. 與地方門閥勢力的關係：在一些地區，地方豪族會資助本宗族或門生應考，提供旅費、書籍甚至行卷人脈，令他們比真正出身貧寒、缺乏資源的寒門更容易在科舉競爭中勝出。這種現象，是理解「唐代科舉打破門閥，卻未能完全實現公平」的重要史實背景。
-          </p>
-          <p class="modal-paragraph">
-            在答題時，學生不必死記具體數字，但可以引用「學者估計唐代進士中寒門比例約一成多」這類說法，結合行卷通榜的制度描述，展現出對史實與數據都有掌握的高水平分析。
-          </p>
-        </div>
-      </div>
+    <div class="card">
+      <h3 class="card-title">銓選標準</h3>
+      <p class="card-text">
+        吏部覆試以「身、言、書、判」為四大核心標準，四項均合格者方可授官：
+      </p>
+      <ul class="card-list">
+        <li><strong>身：</strong>體貌豐偉，要求相貌端正、身體健康，無明顯缺陷；</li>
+        <li><strong>言：</strong>言詞辯正，要求口齒清晰、表達流暢，有基本的政務表達能力；</li>
+        <li><strong>書：</strong>楷法遒美，要求書法工整規範，以唐代官方推崇的楷書為標準；</li>
+        <li><strong>判：</strong>文理優長，要求能撰寫通順規範的判案文書，考察法律知識與政務處理能力。</li>
+      </ul>
     </div>
+
+    <div class="card">
+      <h3 class="card-title">補充機制</h3>
+      <p class="card-text">
+        若士子省試及第、但吏部覆試未能通過，可先前往地方擔任幕僚，熟習吏事、通曉民情，若任內表現良好，日後仍有獲得正式任官的機會，此制度一定程度上保障了官員的基層政務能力。
+      </p>
+    </div>
+
+    <h2 class="section-title">
+      三、考試科目與形式
+    </h2>
+    <p class="section-text">
+      唐代科舉科目設置靈活多元，對應不同的人才需求，分為常科科目與制科科目兩大類，錄取名額有嚴格限制。
+    </p>
+
+    <h3 class="subsection-title">
+      （一）常科科目
+    </h3>
+    <p class="section-text">
+      常科科目繁多，核心設有秀才、進士、明經、明法、明書、明算六大科目，其中以明經、進士兩科最為主流。
+    </p>
+    <ul class="section-list">
+      <li><strong>秀才科：</strong>唐代初期最高等的科目，考方略策，難度極高，對考生的治國見解要求嚴格，因錄取標準過高，後逐漸廢止。</li>
+      <li><strong>明經科：</strong>以考察儒家經籍為核心，考試形式以帖經、墨義為主，核心考察考生對經書的背誦熟練程度。因考試難度較低、取錄人數多，在當時被士人輕視，有「三十老明經，五十少進士」的說法（三十歲考中明經已算年長，五十歲考中進士仍算年輕）。</li>
+      <li><strong>進士科：</strong>唐代最受重視的科目，考試內容包括經義、詩賦、策論，不僅考察儒家經典，更考察文學才華與時政見解，難度高、錄取率極低。但進士及第後前途光明，中唐以後九成宰相均出身進士科，代表人物有宋璟、張九齡等，因此成為天下士人最熱衷的科目。</li>
+      <li><strong>明法科：</strong>考察法律知識與條文，選拔司法專門人才；</li>
+      <li><strong>明書科：</strong>考察文字學、書法知識，選拔文字與文書專門人才；</li>
+      <li><strong>明算科：</strong>考察數學、算學知識，選拔曆法、工程相關的專門人才。</li>
+    </ul>
+
+    <h3 class="subsection-title">
+      （二）制科科目
+    </h3>
+    <p class="section-text">
+      制科科目無固定設置，完全由皇帝臨時決定，唐代先後設置過八十多個科目，常見科目包括直言極諫科、賢良方正科等，針對特殊的治國需求選拔專門人才，無固定錄取名額，每次錄取人數極少，多則十餘人，少則僅一兩人。
+    </p>
+
+    <h3 class="subsection-title">
+      （三）錄取名額限制
+    </h3>
+    <ul class="section-list">
+      <li><strong>常科：</strong>每年全國應考者多達數千人，但每年錄取者不超過三十人，其中進士科每年錄取僅一二十人，錄取率不足<span class="highlight">2%</span>；</li>
+      <li><strong>制科：</strong>無固定錄取名額，每次錄取人數遠少於常科，錄取門檻更高。</li>
+    </ul>
+
+    <h2 class="section-title">
+      四、考規與相關制度
+    </h2>
+    <p class="section-text">
+      唐代科舉考試尚未形成宋代以後嚴密的糊名、謄錄制度，考規相對寬鬆，衍生出行卷、通榜等特殊制度，同時考場舞弊問題頻發。
+    </p>
+
+    <h3 class="subsection-title">
+      （一）核心考試相關制度
+    </h3>
+    <div class="card">
+      <h3 class="card-title">1. 行卷</h3>
+      <p class="card-text">
+        行卷是唐代科舉特有的習俗：士子將自己的得意文學作品抄錄整齊，主動呈送給達官顯宦、社會名流，獲得他們的品評與推薦，以此引起考官的注目，避免臨場發揮失準，提升錄取幾率。唐代著名詩人白居易早年曾向名士顧況行卷，憑藉「野火烧不尽，春风吹又生」的詩句獲得賞識，一舉成名。
+      </p>
+    </div>
+
+    <div class="card">
+      <h3 class="card-title">2. 通榜</h3>
+      <p class="card-text">
+        考官在評卷、定考生名次時，會提前參考社會名流對考生的評價與意見，甚至預先確定錄取名單，稱為「通榜」。
+      </p>
+    </div>
+
+    <div class="card">
+      <h3 class="card-title">3. 求知己</h3>
+      <p class="card-text">
+        士子為了獲得權門貴族的品評與舉薦，左右考官的錄取決定，會向權貴奉獻大量金錢財物，以此結交「知己」。此風氣導致及第者未必有真才實學，嚴重影響了官員隊伍的素質。
+      </p>
+    </div>
+
+    <h3 class="subsection-title">
+      （二）考場舞弊問題
+    </h3>
+    <p class="section-text">
+      唐代科舉考場舞弊現象屢見不鮮，常見舞弊方式包括洩漏試題、挾帶入考場、冒名頂替，當時史料記載「入試非正身，十有三四」，即每十名考生中，就有三四人是替考，舞弊情況十分普遍。
+    </p>
+
+    <h2 class="section-title">
+      五、唐代科舉制的整體影響
+    </h2>
+
+    <h3 class="subsection-title">
+      （一）積極影響
+    </h3>
+    <ul class="section-list">
+      <li><strong>網羅人才，擴大統治基礎</strong><br>
+        科目設置多元，可羅致儒家、法律、數學、文學等不同領域的人才，打破了世家對官職的絕對壟斷，吸納寒門人才進入統治體系。中唐以後九成宰相出身進士科，為唐代政權輸送了大量優秀的政治人才。</li>
+      <li><strong>推動文風興盛，促成唐詩繁榮</strong><br>
+        進士科以詩賦為核心考試內容，天下士人競相鑽研詩賦寫作，直接推動了唐代詩歌的興盛與繁榮，成就了唐詩這一中國文學的高峰。</li>
+      <li><strong>保障官員基本素質</strong><br>
+        通過省試與吏部覆試的兩層考核，對官員的文化素養、政務能力進行了全面篩選；落第士子擔任地方幕僚的制度，也讓官員提前熟悉基層政務，提升了官員隊伍的整體素質。</li>
+    </ul>
+
+    <h3 class="subsection-title">
+      （二）消極局限
+    </h3>
+    <ul class="section-list">
+      <li><strong>士風淪喪，遺漏真才</strong><br>
+        進士科以詩賦取士，導致大量士人只重文辭修養，忽視道德修養與治國能力，形成「少道德、輕道義、寡廉恥」的風氣；同時考試與行卷制度的局限，也導致大量有真才實學的寒門子弟被遺漏。</li>
+      <li><strong>錄取名額過少，激化社會矛盾</strong><br>
+        每年錄取名額極少，大量有才學、享盛名的士人終生無法登第。失意士子或選擇隱居，或投靠藩鎮充當幕僚，甚至發動叛亂，唐末發動黃巢起義的黃巢，便是多次應考進士科不中，最終起兵反唐，成為唐朝滅亡的重要推手。</li>
+      <li><strong>促成朋黨之爭，加劇政治腐敗</strong><br>
+        科舉形成了「座主-門生」的派系關係：主持考試的考官為「座主」，及第考生為「門生」，門生為報答座主提攜之恩，會與座主結成派系，互相援引、打擊異己，成為朋黨的核心基礎。
+        唐代中後期持續數十年的牛李黨爭，便與科舉出身直接相關：李黨多為世族子弟，多以明經科入仕；牛黨多為寒門出身，以進士科入仕，兩者出身不同、政見各異，互相攻擊傾軋，嚴重消耗了唐朝的國力，加劇了中後期的政治危機。</li>
+    </ul>
   </div>
 </template>
 
 <script setup>
-import { ref } from "vue";
-
-const showDetailModal = ref(false);
 </script>
 
 <style scoped>
@@ -269,6 +310,36 @@ const showDetailModal = ref(false);
   color: #555;
 }
 
+.card-list {
+  font-size: 1em;
+  line-height: 1.8;
+  color: #333;
+  margin: 12px 0;
+  padding-left: 20px;
+}
+
+.card-list li {
+  margin: 8px 0;
+}
+
+.section-text {
+  font-size: 1.05em;
+  line-height: 1.9;
+  color: #333;
+  margin: 12px 0;
+}
+
+.subsection-title {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 30px 0 20px 0;
+  padding: 12px 16px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 8px;
+}
+
 .table-container {
   margin: 30px 0;
   overflow-x: auto;
@@ -339,97 +410,34 @@ const showDetailModal = ref(false);
   font-weight: bold;
 }
 
-.detail-button-wrapper {
-  margin: 24px 0 8px 0;
-  text-align: center;
-}
-
-.detail-button {
-  padding: 10px 22px;
-  border-radius: 999px;
-  border: none;
-  cursor: pointer;
-  font-size: 0.98em;
-  font-weight: 600;
-  color: #ffffff;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
-}
-
-.detail-button:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
-  opacity: 0.95;
-}
-
-.modal-backdrop {
-  position: fixed;
-  inset: 0;
-  background: rgba(15, 23, 42, 0.55);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 1000;
-  padding: 16px;
-}
-
-.modal {
-  width: 100%;
-  max-width: 800px;
-  background: #ffffff;
-  border-radius: 14px;
-  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.35);
-  overflow: hidden;
-  animation: modal-fade-in 0.18s ease-out;
-}
-
-.modal-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 14px 18px;
-  background: linear-gradient(135deg, #213547 0%, #4b6cb7 100%);
-  color: #ffffff;
-}
-
-.modal-title {
+.section-text {
   font-size: 1.05em;
-  font-weight: 600;
+  line-height: 1.9;
+  color: #333;
+  margin: 12px 0;
 }
 
-.modal-close {
-  background: transparent;
-  border: none;
-  color: #ffffff;
-  font-size: 1.3em;
-  cursor: pointer;
-  padding: 2px 6px;
-  line-height: 1;
+.subsection-title {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 30px 0 20px 0;
+  padding: 12px 16px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 8px;
 }
 
-.modal-body {
-  padding: 18px 20px 20px 20px;
-  max-height: 70vh;
-  overflow-y: auto;
+.card-list {
+  font-size: 1em;
+  line-height: 1.8;
+  color: #333;
+  margin: 12px 0;
+  padding-left: 20px;
 }
 
-.modal-paragraph {
-  font-size: 0.96em;
-  line-height: 1.85;
-  color: #374151;
-  margin-bottom: 10px;
-}
-
-@keyframes modal-fade-in {
-  from {
-    opacity: 0;
-    transform: translateY(8px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+.card-list li {
+  margin: 8px 0;
 }
 
 /* 移动端响应式设计 */
@@ -489,6 +497,29 @@ const showDetailModal = ref(false);
   .card-text {
     font-size: 0.95em;
     line-height: 1.6;
+  }
+
+  .card-list {
+    font-size: 0.92em;
+    line-height: 1.6;
+    margin: 10px 0;
+    padding-left: 16px;
+  }
+
+  .card-list li {
+    margin: 6px 0;
+  }
+
+  .section-text {
+    font-size: 0.95em;
+    line-height: 1.7;
+    margin: 10px 0;
+  }
+
+  .subsection-title {
+    font-size: 1.05em;
+    margin: 20px 0 14px 0;
+    padding: 10px 14px;
   }
 
   .table-container {
