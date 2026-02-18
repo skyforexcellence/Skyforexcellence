@@ -117,6 +117,9 @@
         <RouterLink to="/bing/2022" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           DSE 2022年真題
         </RouterLink>
+        <RouterLink to="/bing/2023" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2023年真題
+        </RouterLink>
       </div>
 
       <div class="nav-group">
