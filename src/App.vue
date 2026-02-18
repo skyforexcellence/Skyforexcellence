@@ -52,6 +52,9 @@
         <RouterLink to="/tian/summary" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           田制小結與比較
         </RouterLink>
+        <RouterLink to="/tian/2018" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          2018年 DSE 真題
+        </RouterLink>
         <RouterLink to="/tian/2019" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           2019年 DSE 真題
         </RouterLink>

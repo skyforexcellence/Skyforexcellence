@@ -10,6 +10,7 @@ import TianSong from "../views/tian/TianSong.vue";
 import TianYuan from "../views/tian/TianYuan.vue";
 import TianMing from "../views/tian/TianMing.vue";
 import TianQing from "../views/tian/TianQing.vue";
+import Tian2018 from "../views/tian/Tian2018.vue";
 import Tian2019 from "../views/tian/Tian2019.vue";
 import Tian2020 from "../views/tian/Tian2020.vue";
 import Tian2021 from "../views/tian/Tian2021.vue";
@@ -50,6 +51,7 @@ const routes = [
   { path: "/tian/yuan", name: "tian-yuan", component: TianYuan },
   { path: "/tian/ming", name: "tian-ming", component: TianMing },
   { path: "/tian/qing", name: "tian-qing", component: TianQing },
+  { path: "/tian/2018", name: "tian-2018", component: Tian2018 },
   { path: "/tian/2019", name: "tian-2019", component: Tian2019 },
   { path: "/tian/2020", name: "tian-2020", component: Tian2020 },
   { path: "/tian/2021", name: "tian-2021", component: Tian2021 },
