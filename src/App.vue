@@ -108,6 +108,9 @@
         <RouterLink to="/bing/summary" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           兵制小結與比較
         </RouterLink>
+        <RouterLink to="/bing/2019" class="nav-link" active-class="nav-link-active" @click="closeMenu">
+          DSE 2019年真題
+        </RouterLink>
         <RouterLink to="/bing/2020" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           DSE 2020年真題
         </RouterLink>

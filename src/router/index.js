@@ -31,6 +31,7 @@ import Bing2020 from "../views/bing/Bing2020.vue";
 import Bing2021 from "../views/bing/Bing2021.vue";
 import Bing2022 from "../views/bing/Bing2022.vue";
 import Bing2023 from "../views/bing/Bing2023.vue";
+import Bing2019 from "../views/bing/Bing2019.vue";
 import BingSummary from "../views/bing/BingSummary.vue";
 import KejuTang from "../views/keju/KejuTang.vue";
 import KejuSong from "../views/keju/KejuSong.vue";
@@ -76,6 +77,7 @@ const routes = [
   { path: "/bing/2021", name: "bing-2021", component: Bing2021 },
   { path: "/bing/2022", name: "bing-2022", component: Bing2022 },
   { path: "/bing/2023", name: "bing-2023", component: Bing2023 },
+  { path: "/bing/2019", name: "bing-2019", component: Bing2019 },
   { path: "/bing/summary", name: "bing-summary", component: BingSummary },
   { path: "/keju/tang", name: "keju-tang", component: KejuTang },
   { path: "/keju/song", name: "keju-song", component: KejuSong },
