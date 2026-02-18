@@ -96,20 +96,54 @@
             </div>
           </div>
 
-          <div class="summary-card bei-wei-sui">
-            <h3 class="summary-title">北魏、隋︰均田制的發展</h3>
+          <div class="summary-card bei-wei">
+            <h3 class="summary-title">北魏︰均田制</h3>
             <div class="summary-content">
               <div class="summary-row">
-                <span class="label">北魏：</span>
-                <span><strong>目標：</strong>重建戰後社會秩序，限制鮮卑貴族兼併土地，建立穩定的稅源與兵源。<strong>內容：</strong>推行均田制，按人口分配土地（男丁授田露田40畝、桑田20畝），推行三長制（鄰長、里長、黨長）加強戶籍管理。<strong>成效：</strong>恢復農業生產，限制土地兼併，為北魏統治奠定基礎。</span>
+                <span class="label">目標：</span>
+                <span>重建戰後社會秩序，限制鮮卑貴族兼併土地，建立穩定的稅源與兵源，鞏固北魏統治</span>
               </div>
               <div class="summary-row">
-                <span class="label">隋代：</span>
-                <span><strong>目標：</strong>承接北魏均田制，統一全國後建立統一的田制。<strong>內容：</strong>繼續推行均田制，與租庸調、府兵制配合。<strong>成效：</strong>支撐隋朝統一，為唐代均田制的發展奠定基礎。</span>
+                <span class="label">內容：</span>
+                <span><strong>均田制：</strong>按人口分配土地，男丁授田露田40畝（死後歸還）、桑田20畝（可世襲），婦女授田20畝。<strong>三長制：</strong>推行鄰長（5家）、里長（25家）、黨長（125家）制度，加強戶籍管理。<strong>租調制：</strong>受田農民繳納粟、絹，服徭役。</span>
               </div>
               <div class="summary-row">
-                <span class="label">共同特點：</span>
-                <span>都是國家直接分配土地，配合三長制或戶籍管理，建立穩定的稅源與兵源</span>
+                <span class="label">成效：</span>
+                <span>恢復戰後農業生產；限制鮮卑貴族的土地兼併；建立穩定的稅源與兵源；為隋唐均田制的發展奠定基礎；支持北魏統治的鞏固</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">問題：</span>
+                <span>土地兼併問題仍然存在；部分地區土地不足，無法足額授田；後期執行不力</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">意義：</span>
+                <span>開創了國家直接分配土地的制度，是均田制的最早實踐，為後世提供了重要經驗</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="summary-card sui">
+            <h3 class="summary-title">隋代︰均田制的承接</h3>
+            <div class="summary-content">
+              <div class="summary-row">
+                <span class="label">目標：</span>
+                <span>承接北魏均田制，在統一全國後建立統一的田制，支持統一政權，為唐代均田制的發展奠定基礎</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">內容：</span>
+                <span><strong>均田制：</strong>繼續推行均田制，按人口分配土地，規定男丁授田百畝（露田80畝、永業田20畝），婦女授田40畝。<strong>戶籍管理：</strong>實行嚴格戶籍制度，加強對人口和土地的管理。<strong>稅制：</strong>實行租庸調，受田農民繳納粟、絹，服徭役。</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">成效：</span>
+                <span>支持隋朝統一全國；恢復戰後農業生產；建立穩定的稅源與兵源；為唐代均田制的發展和完善奠定了基礎；支持隋朝的繁榮</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">問題：</span>
+                <span>隋末戰亂，均田制受到破壞；土地兼併問題開始顯現</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">意義：</span>
+                <span>是均田制從北朝到唐代的承上啟下時期，為唐代均田制的完善奠定了基礎</span>
               </div>
             </div>
           </div>
@@ -132,42 +166,106 @@
             </div>
           </div>
 
-          <div class="summary-card song-yuan">
-            <h3 class="summary-title">宋元︰地主經濟</h3>
+          <div class="summary-card song">
+            <h3 class="summary-title">宋代︰地主經濟</h3>
             <div class="summary-content">
               <div class="summary-row">
-                <span class="label">宋代：</span>
-                <span><strong>特點：</strong>不推行均田制，承認土地高度私有化，地主經濟發達。<strong>田制：</strong>以地主與佃戶關係為主，佃戶制盛行。<strong>稅制：</strong>推行兩稅法，按資產和田畝徵稅。<strong>成效：</strong>適應社會經濟發展，透過稅制改革維持財政收入，支持宋代經濟繁榮。<strong>問題：</strong>土地高度集中，佃戶制盛行；國家對土地控制力下降；稅收和兵源不穩定；社會貧富懸殊。</span>
+                <span class="label">目標：</span>
+                <span>承認土地高度私有化，透過稅制改革維持國家財政收入，適應地主經濟發展，加強對土地和人口的管理</span>
               </div>
               <div class="summary-row">
-                <span class="label">元代：</span>
-                <span><strong>特點：</strong>軍戶制度，軍戶世襲服役。<strong>田制：</strong>推行軍屯，土地兼併嚴重。<strong>成效：</strong>支持元朝統治。<strong>問題：</strong>土地兼併嚴重，社會矛盾激化；軍戶負擔沉重；蒙古貴族大量兼併土地。</span>
+                <span class="label">內容：</span>
+                <span><strong>田制特點：</strong>不推行均田制，承認土地高度私有化，地主經濟發達。地主與佃戶關係普遍，佃戶制盛行。<strong>稅制：</strong>推行兩稅法，按資產和田畝徵稅，分夏秋兩季徵收。<strong>土地管理：</strong>建立方田均稅法，測量土地，核定稅額。</span>
               </div>
               <div class="summary-row">
-                <span class="label">共同特點：</span>
-                <span>都承認土地高度私有化，地主經濟發達；國家更多透過稅制改革維持財政</span>
+                <span class="label">成效：</span>
+                <span>適應社會經濟發展，透過稅制改革維持財政收入；支持宋代經濟繁榮和科技發展；方田均稅法增加了國家收入；地主經濟促進了農業生產發展</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">問題：</span>
+                <span>土地高度集中，佃戶制盛行；國家對土地控制力下降；稅收和兵源不穩定；社會貧富懸殊；農民負擔沉重</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">特點：</span>
+                <span>宋代是中國古代田制發展的轉折點，從國家直接授田轉向承認土地私有，透過稅制改革維持統治</span>
               </div>
             </div>
           </div>
 
-          <div class="summary-card ming-qing">
-            <h3 class="summary-title">明清︰田賦改革</h3>
+          <div class="summary-card yuan">
+            <h3 class="summary-title">元代︰軍戶與屯田</h3>
             <div class="summary-content">
               <div class="summary-row">
-                <span class="label">明代：</span>
-                <span><strong>黃冊、魚鱗冊：</strong>建立完整的戶籍與土地登記制度，加強對人口和土地的管理。<strong>衛所制：</strong>軍戶世襲，配合軍屯。<strong>一條鞭法：</strong>簡化賦役，將田賦、徭役、雜稅合併為一，按畝徵收。<strong>意義：</strong>簡化稅制，增加國家收入，適應商品經濟發展。</span>
+                <span class="label">目標：</span>
+                <span>建立以蒙古族為核心的統治秩序，通過軍戶制度保障兵源，透過屯田解决軍糧問題，維持元朝統治</span>
               </div>
               <div class="summary-row">
-                <span class="label">清代：</span>
-                <span><strong>圈地運動：</strong>清初滿洲貴族大量圈佔土地。<strong>攤丁入畝：</strong>廢除丁稅，將人頭稅攤入田畝中，實行地丁合一。<strong>意義：</strong>減輕無地農民的負擔，增加國家收入，標誌著賦役制度的完善。</span>
+                <span class="label">內容：</span>
+                <span><strong>軍戶制：</strong>世襲軍戶，士兵身份固定，世代從軍。蒙古人、色目人、漢人、南人的軍戶制度不同。<strong>千戶萬戶制：</strong>蒙古族軍事組織，以百戶、千戶、萬戶為編制。<strong>屯田制：</strong>大規模推行軍屯，軍隊開墾荒地，產糧供給軍隊。<strong>土地管理：</strong>蒙古貴族大量兼併土地，圈地運動盛行。</span>
               </div>
               <div class="summary-row">
-                <span class="label">共同特點：</span>
-                <span>都基本承認地主佃戶格局，重點在田賦與賦役改革；通過簡化稅制、加強管理來維持財政</span>
+                <span class="label">成效：</span>
+                <span>建立以蒙古族為核心的軍隊，支持元朝統治；屯田制解決了軍糧問題；軍戶制度保障了兵源</span>
               </div>
               <div class="summary-row">
                 <span class="label">問題：</span>
-                <span>土地兼併無法遏止，社會貧富懸殊；賦役加重導致農民起義頻發（明末李自成起義、清末太平天國運動）</span>
+                <span>族群分化導致軍隊不團結；軍戶負擔沉重，逃亡嚴重；蒙古貴族大量兼併土地，土地兼併問題嚴重；漢人軍隊戰鬥力不足；社會矛盾激化</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">特點：</span>
+                <span>元代田制具有強烈的族群分化特點，蒙古人、色目人、漢人、南人的權利和義務不同，這種族群分化導致了社會矛盾和統治的不穩</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="summary-card ming">
+            <h3 class="summary-title">明代︰土地登記與賦役改革</h3>
+            <div class="summary-content">
+              <div class="summary-row">
+                <span class="label">目標：</span>
+                <span>建立完整的土地與人口管理制度，透過賦役改革維持財政收入，加強中央對土地和人口的控制，鞏固明朝統治</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">內容：</span>
+                <span><strong>黃冊：</strong>登記戶籍，記錄人口、資產，確定賦稅負擔。<strong>魚鱗冊：</strong>登記土地，繪製土地圖冊，確定土地所有權和稅額。<strong>衛所制：</strong>軍戶世襲，配合軍屯，士兵耕種屯田養活自己。<strong>一條鞭法：</strong>張居正推行，將田賦、徭役、雜稅合併為一，按畝徵收，簡化稅制。</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">成效：</span>
+                <span>建立了完整的戶籍與土地登記制度；加強了對人口和土地的管理；一條鞭法簡化了稅制，增加了國家收入；適應了商品經濟的發展；支持了明朝中期的統治</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">問題：</span>
+                <span>土地兼併無法遏止，社會貧富懸殊；賦役加重導致農民起義頻發；明末賦役沉重，引發李自成起義；軍屯被權貴侵吞，衛所制崩潰</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">特點：</span>
+                <span>明代通過黃冊、魚鱗冊建立了完善的土地與人口管理制度，一條鞭法標誌著賦役制度的完善，但土地兼併問題依然無法解決</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="summary-card qing">
+            <h3 class="summary-title">清代︰地丁合一與土地改革</h3>
+            <div class="summary-content">
+              <div class="summary-row">
+                <span class="label">目標：</span>
+                <span>鞏固清朝統治，減輕農民負擔，增加國家收入，完善賦役制度，適應社會經濟發展</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">內容：</span>
+                <span><strong>圈地運動：</strong>清初滿洲貴族大量圈佔土地，建立莊園。<strong>攤丁入畝（地丁合一）：</strong>廢除丁稅（人頭稅），將人頭稅攤入田畝中，按畝徵收，由雍正推行。<strong>賦役改革：</strong>簡化稅制，按資產徵稅。<strong>土地管理：</strong>承認地主佃戶格局，基本承認土地私有和兼併。</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">成效：</span>
+                <span>減輕了無地農民的負擔；增加了國家收入；攤丁入畝標誌著賦役制度的完善；適應了社會經濟發展；支持了康乾盛世的繁榮</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">問題：</span>
+                <span>土地兼併無法遏止，社會貧富懸殊；賦役加重導致農民起義頻發；清末土地問題嚴重，引發太平天國運動；清廷無法解決土地問題</span>
+              </div>
+              <div class="summary-row">
+                <span class="label">特點：</span>
+                <span>清代通過攤丁入畝完善了賦役制度，但土地兼併問題依然無法解決，成為清末社會動亂的重要原因之一</span>
               </div>
             </div>
           </div>
@@ -228,6 +326,65 @@
               <p class="trend-desc"><strong>統治邏輯：</strong>透過稅制維持統治</p>
             </div>
           </div>
+        </div>
+      </div>
+
+      <!-- 宋元明清单独对比 -->
+      <div class="song-yuan-ming-qing-section">
+        <h2 class="section-title">宋元明清田制獨立對比</h2>
+        
+        <div class="comparison-table">
+          <table>
+            <thead>
+              <tr>
+                <th>朝代</th>
+                <th>田制核心</th>
+                <th>目標</th>
+                <th>內容</th>
+                <th>成效</th>
+                <th>問題</th>
+                <th>特點</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>宋代</strong></td>
+                <td>地主經濟</td>
+                <td>承認土地私有，透過稅制改革維持財政</td>
+                <td>不推行均田制，地主與佃戶關係普遍；推行兩稅法，按資產徵稅；方田均稅法測量土地</td>
+                <td>適應經濟發展，支持繁榮；增加國家收入</td>
+                <td>土地高度集中；國家控制力下降；貧富懸殊</td>
+                <td>從國家授田轉向承認私有，透過稅制改革維持統治</td>
+              </tr>
+              <tr>
+                <td><strong>元代</strong></td>
+                <td>軍戶與屯田</td>
+                <td>建立蒙古為核心的統治，保障兵源，解决軍糧</td>
+                <td>軍戶世襲；千戶萬戶制；大規模軍屯；蒙古貴族大量圈地</td>
+                <td>支持元朝統治；屯田解决軍糧；軍戶保障兵源</td>
+                <td>族群分化；軍戶負擔沉重；土地兼併嚴重；漢人軍隊戰鬥力不足</td>
+                <td>具有強烈族群分化特點，蒙古人、色目人、漢人、南人權利不同</td>
+              </tr>
+              <tr>
+                <td><strong>明代</strong></td>
+                <td>土地登記與賦役改革</td>
+                <td>建立完善管理制度，透過賦役改革維持財政</td>
+                <td>黃冊登記戶籍；魚鱗冊登記土地；衛所制配合軍屯；一條鞭法合併賦役</td>
+                <td>完善管理制度；簡化稅制；增加收入；適應商品經濟</td>
+                <td>土地兼併無法遏止；賦役加重引發起義；軍屯被侵吞</td>
+                <td>建立了完善的土地與人口管理制度，一條鞭法標誌賦役制度完善</td>
+              </tr>
+              <tr>
+                <td><strong>清代</strong></td>
+                <td>地丁合一與土地改革</td>
+                <td>鞏固統治，減輕負擔，增加收入，完善賦役</td>
+                <td>圈地運動；攤丁入畝（地丁合一）；簡化稅制；承認地主佃戶格局</td>
+                <td>減輕無地農民負擔；增加收入；完善賦役制度；支持康乾盛世</td>
+                <td>土地兼併無法遏止；清末土地問題嚴重；引發太平天國</td>
+                <td>通過攤丁入畝完善賦役制度，但土地兼併問題無法解決</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
 
@@ -438,7 +595,7 @@
             <div class="method-number">2</div>
             <div class="method-content">
               <h3>建立比較表格</h3>
-              <p>用表格對比不同朝代的田制，方便記憶：</p>
+              <p>用表格對比不同朝代的田制，方便記憶。特別是宋元明清四個朝代要獨立對比：</p>
               <div class="sample-table">
                 <table>
                   <thead>
@@ -453,20 +610,36 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td>唐代</td>
-                      <td>均田制</td>
-                      <td>重建小農社會</td>
-                      <td>按人口授田</td>
-                      <td>支持盛世</td>
-                      <td>土地兼併</td>
+                      <td>宋代</td>
+                      <td>地主經濟</td>
+                      <td>承認私有</td>
+                      <td>兩稅法</td>
+                      <td>支持繁榮</td>
+                      <td>土地集中</td>
+                    </tr>
+                    <tr>
+                      <td>元代</td>
+                      <td>軍戶屯田</td>
+                      <td>蒙古統治</td>
+                      <td>軍戶世襲</td>
+                      <td>支持統治</td>
+                      <td>族群分化</td>
                     </tr>
                     <tr>
                       <td>明代</td>
-                      <td>黃冊、魚鱗冊</td>
-                      <td>加強管理</td>
-                      <td>戶籍土地登記</td>
+                      <td>黃冊魚鱗冊</td>
+                      <td>完善管理</td>
+                      <td>一條鞭法</td>
                       <td>增收入</td>
                       <td>土地兼併</td>
+                    </tr>
+                    <tr>
+                      <td>清代</td>
+                      <td>地丁合一</td>
+                      <td>減輕負擔</td>
+                      <td>攤丁入畝</td>
+                      <td>完善賦役</td>
+                      <td>土地問題</td>
                     </tr>
                   </tbody>
                 </table>
@@ -483,6 +656,7 @@
                 <li>唐代：均田制 + 府兵制 = 兵農合一</li>
                 <li>明代：軍屯 + 衛所制 = 兵農合一</li>
                 <li>宋代：地主經濟 + 募兵制 = 職業軍隊</li>
+                <li>元代：軍戶 + 千戶萬戶 = 族群軍隊</li>
               </ul>
               <p>思考：田制如何影響兵制？兵制如何依賴田制？</p>
             </div>
@@ -574,12 +748,13 @@
           </div>
 
           <div class="kp-card">
-            <h3 class="kp-title">田制與兵制的關係</h3>
+            <h3 class="kp-title">宋元明清田制對比重點</h3>
             <ul class="kp-list">
-              <li><strong>唐代：</strong>均田制 + 府兵制 = 兵農合一</li>
-              <li><strong>明代：</strong>軍屯 + 衛所制 = 兵農合一</li>
-              <li><strong>宋代：</strong>地主經濟 + 募兵制 = 職業軍隊</li>
-              <li><strong>核心邏輯：</strong>田制是兵制的物質基礎，田制瓦解→兵制崩潰</li>
+              <li><strong>宋代：</strong>地主經濟，兩稅法，承認私有，適應經濟發展</li>
+              <li><strong>元代：</strong>軍戶世襲，屯田制，族群分化，蒙古為核心</li>
+              <li><strong>明代：</strong>黃冊魚鱗冊，一條鞭法，完善管理，簡化稅制</li>
+              <li><strong>清代：</strong>攤丁入畝，地丁合一，減輕負擔，完善賦役</li>
+              <li><strong>共同點：</strong>都承認土地私有，透過稅制改革維持統治</li>
             </ul>
           </div>
         </div>
@@ -599,7 +774,7 @@
 }
 
 .container {
-  max-width: 1300px;
+  max-width: 1400px;
   margin: 0 auto;
   background: white;
   border-radius: 12px;
@@ -653,7 +828,7 @@
 /* 详细总结 */
 .summary-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
   gap: 25px;
 }
 
@@ -677,29 +852,40 @@
   border-color: #f093fb;
 }
 
-.summary-card.bei-wei-sui {
+.summary-card.bei-wei {
   border-color: #4facfe;
 }
 
-.summary-card.tang {
+.summary-card.sui {
   border-color: #00f2fe;
 }
 
-.summary-card.song-yuan {
+.summary-card.tang {
   border-color: #43e97b;
 }
 
-.summary-card.ming-qing {
+.summary-card.song {
   border-color: #fa709a;
+}
+
+.summary-card.yuan {
+  border-color: #fee140;
+}
+
+.summary-card.ming {
+  border-color: #a8edea;
+}
+
+.summary-card.qing {
+  border-color: #fbc2eb;
 }
 
 .summary-title {
   padding: 20px 25px;
   margin: 0;
-  font-size: 1.4rem;
+  font-size: 1.35rem;
   font-weight: 600;
   color: white;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .summary-card.pre-qin .summary-title {
@@ -714,20 +900,32 @@
   background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
 }
 
-.summary-card.bei-wei-sui .summary-title {
+.summary-card.bei-wei .summary-title {
   background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
 }
 
-.summary-card.tang .summary-title {
+.summary-card.sui .summary-title {
   background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
 }
 
-.summary-card.song-yuan .summary-title {
+.summary-card.tang .summary-title {
   background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
 }
 
-.summary-card.ming-qing .summary-title {
+.summary-card.song .summary-title {
   background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.summary-card.yuan .summary-title {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.summary-card.ming .summary-title {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.summary-card.qing .summary-title {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
 }
 
 .summary-content {
@@ -750,6 +948,8 @@
   color: #3498db;
   font-weight: 600;
   font-size: 1.05rem;
+  display: block;
+  margin-bottom: 5px;
 }
 
 .summary-content strong {
@@ -796,6 +996,50 @@
   line-height: 1.8;
   margin: 8px 0;
   font-size: 0.95rem;
+}
+
+/* 宋元明清单独对比 */
+.song-yuan-ming-qing-section {
+  margin-bottom: 50px;
+}
+
+.comparison-table {
+  overflow-x: auto;
+  border: 2px solid #3498db;
+  border-radius: 8px;
+}
+
+.comparison-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.comparison-table th,
+.comparison-table td {
+  border: 1px solid #e9ecef;
+  padding: 15px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.comparison-table thead th {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  font-weight: 600;
+}
+
+.comparison-table tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+.comparison-table tbody tr:hover {
+  background: #e3f2fd;
+}
+
+.comparison-table td strong {
+  color: #e74c3c;
+  font-weight: 600;
 }
 
 /* 关系表 */
@@ -1186,6 +1430,12 @@
   .method-item,
   .kp-card {
     padding: 20px;
+  }
+
+  .comparison-table th,
+  .comparison-table td {
+    padding: 10px 8px;
+    font-size: 0.8rem;
   }
 }
 </style>
