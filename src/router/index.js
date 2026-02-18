@@ -27,6 +27,7 @@ import BingSong from "../views/bing/BingSong.vue";
 import BingYuan from "../views/bing/BingYuan.vue";
 import BingMing from "../views/bing/BingMing.vue";
 import BingQing from "../views/bing/BingQing.vue";
+import Bing2022 from "../views/bing/Bing2022.vue";
 import BingSummary from "../views/bing/BingSummary.vue";
 import KejuTang from "../views/keju/KejuTang.vue";
 import KejuSong from "../views/keju/KejuSong.vue";
@@ -68,6 +69,7 @@ const routes = [
   { path: "/bing/yuan", name: "bing-yuan", component: BingYuan },
   { path: "/bing/ming", name: "bing-ming", component: BingMing },
   { path: "/bing/qing", name: "bing-qing", component: BingQing },
+  { path: "/bing/2022", name: "bing-2022", component: Bing2022 },
   { path: "/bing/summary", name: "bing-summary", component: BingSummary },
   { path: "/keju/tang", name: "keju-tang", component: KejuTang },
   { path: "/keju/song", name: "keju-song", component: KejuSong },
