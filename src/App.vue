@@ -53,10 +53,10 @@
           田制小結與比較
         </RouterLink>
         <RouterLink to="/tian/2018" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          2018年 DSE 真題
+          DSE 2018年真題
         </RouterLink>
         <RouterLink to="/tian/2019" class="nav-link" active-class="nav-link-active" @click="closeMenu">
-          2019年 DSE 真題
+          DSE 2019年真題
         </RouterLink>
         <RouterLink to="/tian/2020" class="nav-link" active-class="nav-link-active" @click="closeMenu">
           DSE 2020年真題
